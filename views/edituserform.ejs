@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1> <b>EDIT PERSONAL INFORMATION FORM</b></h1>
+    <hr>
+    
+</head>
+<body>
+<% if(messages.success){ %>
+<%= messages.success %>
+<% } %>
+<% if(messages.error){ %>
+    <%= messages.error %>
+    <% } %>
+
+
+
+<div>
+
+<h4>Edit the following information correctly:</h4>
+<br>
+
+</div>
+
+<form action="/edituser/<%= edituserlist.id %>"  method="post">
+ <ul>
+     <li><b>Name</b> 
+ <br>
+
+<label for=" name"></label>
+<input type="text"  name="name" value="<%= edituserlist.name %>" required placeholder="First name">
+
+&nbsp;&nbsp;
+
+</li>
+<li><b>email</b> 
+    <br>
+   
+   <label for=" email"></label>
+   <input type="text" value="<%= edituserlist.email %>" name="email" required placeholder="email">
+   &nbsp;&nbsp;
+   
+   </li>
+<br> <br>
+<li><b>age</b> 
+    <br>
+   
+   <label for=" age"></label>
+   <input type="text" name="age" value="<%= edituserlist.age %>" required placeholder="age">
+   &nbsp;&nbsp;
+
+   
+   </li>
+   <li><b>password</b> 
+    <br>
+   
+   <label for=" pass"></label>
+   <input type="password" value="<%= edituserlist.password %>" name="pass" required placeholder="password">
+   &nbsp;&nbsp;
+   
+   </li>
+
+<label for="submit"></label>
+<input type="submit" name="submit">
+
+</form>
+
+</body>
+
+</html>

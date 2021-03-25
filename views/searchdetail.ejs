@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+    
+    <% if(messages.success){ %>
+    <%= messages.success %>
+    <% } %>
+    <% if(messages.error){ %>
+        <%= messages.error %>
+        <% } %> 
+<table border='1'>
+ <tr>
+    <th>ID</th>
+     <th>NAME</th>
+     <th>CITY</th>
+     <th>STATE</th>
+     <th>CLEANLINESS</th>
+     <th>RANKING</th>
+     <th>TRAFFIC</th>
+     <th>NUMBER OF AIRLINES</th>
+     <th>IMAGE</th>
+     <th>RECOMMENDATION</th>
+     <th>SERVICE</th>
+     <th>TAXI</th>
+     <th>FOODCHAINS</th>
+    
+ </tr>
+ <% airportlist.forEach(function(airportindex){ %>
+ <tr>
+    <td><%= airportindex.id %></td>
+        <td><%= airportindex.name %></td>
+        <td><%= airportindex.city %></td>
+        <td><%= airportindex.state %></td>
+        <td><%= airportindex.cleanliness %></td>
+        <td><%= airportindex.ranking %></td>
+        <td><%= airportindex.traffic %></td>
+        <td><%= airportindex.airlines %></td>
+        <td><img height="200" width="250" src="<%= airportindex.image %>" /></td>
+        <td><%= airportindex.recommendation %></td>
+        <td><%= airportindex.service %></td>
+        <td><%= airportindex.taxi %></td>
+        <td><%= airportindex.foodchains %></td>
+
+       
+        
+ 
+     
+
+ </tr>
+
+<% }) %>
+
+
+
+</table>
+</body>
+</html>

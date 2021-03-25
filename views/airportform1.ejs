@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    
+  </head>
+  
+  <body><% if(messages.success){ %>
+  <%= messages.success %>
+  <% } %>
+  <% if(messages.error){ %>
+      <%= messages.error %>
+      <% } %>
+      <form action="/addairport" method="post" enctype="multipart/form-data">
+  
+    <input  type="text" name="name" placeholder="Name of Airport">
+    <input type="text" name="city" placeholder="City">
+    <input type="text" name="state" placeholder="State">
+    <input type="number" name="cleanliness" placeholder="Cleanliness">
+    <input type="number" name="ranking" placeholder="Airport Ranking">
+    <input type="number" name="traffic" placeholder="Airport traffic">
+    <input type="number" name="airlines" placeholder="Number of Airlines">
+    <label for="image" ><u>Upload the image of the airport here:</u></label>
+    <input type="file" name="image">
+    
+    
+    <input type="text" name="recommendation" placeholder="Recommendation">
+    <input type="number" name="service" placeholder="Service Rating">
+    
+    
+      <input type="text" name="taxi" placeholder="Available Taxi services">
+      <input type="text" name="foodchains" placeholder="Available Foodchains">
+  
+  
+  
+  <input type="submit" value="submit">
+</form>
+</body>
+</html>

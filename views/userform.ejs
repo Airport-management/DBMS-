@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1> <b>PERSONAL INFORMATION FORM</b></h1>
+    <hr>
+    
+</head>
+<body>
+    <a href="/viewairport">CLICK TO VIEW ALL AIRPORTS</a>
+    <a href="/searchbar">CLICK TO SEARCH AIRPORT</a>
+
+    <% if(messages.success){ %>
+        <%= messages.success %>
+        <% } %>
+        <% if(messages.error){ %>
+            <%= messages.error %>
+            <% } %>
+
+
+<a href="viewuser">List of users</a>
+<div>
+
+<h4>Fill the following information correctly:</h4>
+<br>
+
+</div>
+
+<form action="adduser" method="post">
+ <ul>
+     <li><b>Name</b> 
+ <br>
+
+<label for=" name"></label>
+<input type="text" name="name" required placeholder="First name">
+&nbsp;&nbsp;
+
+</li>
+<li><b>email</b> 
+    <br>
+   
+   <label for=" email"></label>
+   <input type="text" name="email" required placeholder="email">
+   &nbsp;&nbsp;
+   
+   </li>
+<br> <br>
+<li><b>age</b> 
+    <br>
+   
+   <label for=" age"></label>
+   <input type="text" name="age" required placeholder="age">
+   &nbsp;&nbsp;
+
+   
+   </li>
+   <li><b>password</b> 
+    <br>
+   
+   <label for=" pass"></label>
+   <input type="password" name="pass" required placeholder="password">
+   &nbsp;&nbsp;
+   
+   </li>
+
+<label for="submit"></label>
+<input type="submit" name="submit">
+
+</form>
+
+</body>
+
+</html>

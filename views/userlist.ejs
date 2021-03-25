@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myfunction(){
+var r=confirm("DO YOU WANT TO DELETE THIS USER?");
+if(r==true){
+    document.getElementById("deleteid").submit();
+}
+} </script>
+</head>
+<body>
+    <h1>This is a list of users</h1>
+     <% if(messages.success){ %>
+        <%= messages.success %>
+        <% } %>
+        <% if(messages.error){ %>
+            <%= messages.error %>
+            <% } %> 
+    <table border='1'>
+     <tr>
+        <th>ID</th>
+         <th>NAME</th>
+         <th>EMAIL</th>
+         <th>AGE</th>
+         <th>PASSWORD</th>
+        
+     </tr>
+     <% listuser.forEach(function(userindex){ %>
+     <tr>
+         <form action="/deleteuser" method="post" id="deleteid">
+         <div>   <td name="user_id"><%= userindex.id %></td>
+            <td><%= userindex.name %></td>
+            <td><%= userindex.email %></td>
+            <td><%= userindex.age %></td>
+            <td><%= userindex.password %></td>
+            <td><a href="edituser/<%= userindex.id %>">Edit this list</a></td>
+            
+            <!-- <input type="text" value="<%= userindex.id %>" name="user_id"> -->
+           <td>
+               <input type="button" value="deleteuser" onclick="myfunction()">
+           </td>
+           </div>
+         </form>
+         
+
+     </tr>
+
+    <% }) %>
+
+
+
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Airport List</title>
+	<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+
+    <body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+           	<!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo">All Airports here!</a></h1>
+							</header>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="/index">Home</a></li>
+								
+								<li><a href="left-sidebar.html">Admin Login</a></li>
+								<li><a href="/rightsidebar">About Us</a></li>
+								<li><a href="/viewairport">Airport List</a></li>
+							</ul>
+						</nav>
+
+				</div>
+    <div class="wrapper style1">
+
+        <div class="container">
+            <article id="main" class="special">
+                <header>
+                    <h2><a href="#">An exclusive complete list of all airports we know of!</a></h2>
+                    <p>
+                       Aircare : Always helping you to the best of our knowledge								</p>
+                </header>
+                <a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+               
+               
+               
+            </article>
+            <hr />
+            <h1>This is a list of AIRPORTS</h1>
+     <% if(messages.success){ %>
+        <%= messages.success %>
+        <% } %>
+        <% if(messages.error){ %>
+            <%= messages.error %>
+            <% } %> 
+            <table class="table">
+                <thead class="thead-dark">
+                  <tr>
+                    
+                    <th scope="col">ID</th>
+                    <th scope="col">NAME</th>
+                    <th scope="col">CITY</th>
+                    <th scope="col">STATE</th>
+                    <th scope="col">CLEANLINESS</th>
+                    <th scope="col">RANKING</th>
+                    <th scope="col">TRAFFIC</th>
+                    <th scope="col">NUMBER OF AIRLINES</th>
+                    <th scope="col">IMAGE</th>
+                    <th scope="col">RECOMMENDATION</th>
+                    <th scope="col">SERVICE</th>
+                    <th scope="col">TAXI</th>
+                    <th scope="col">FOODCHAINS</th>
+                  </tr>
+                </thead>
+                <tbody>
+                    <% airportlist.forEach(function(airportindex){ %>
+                  <tr>
+                  
+                    <td><%= airportindex.id %></td>
+                    <td><%= airportindex.name %></td>
+                    <td><%= airportindex.city %></td>
+                    <td><%= airportindex.state %></td>
+                    <td><%= airportindex.cleanliness %></td>
+                    <td><%= airportindex.ranking %></td>
+                    <td><%= airportindex.traffic %></td>
+                    <td><%= airportindex.airlines %></td>
+                    <td><img height="200" width="250" src="<%= airportindex.image %>" /></td>
+                    <td><%= airportindex.recommendation %></td>
+                    <td><%= airportindex.service %></td>
+                    <td><%= airportindex.taxi %></td>
+                    <td><%= airportindex.foodchains %></td>
+                  </tr>
+                  <% }) %>
+                </tbody>
+              </table>
+              
+             
+              
+    
+        </div>
+
+    </div>
+
+   </div>
+</body>
+
+</html>
