@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <link rel="stylesheet" href="assets/css/sliding.css" />
    
     <style>
       html, body {
@@ -127,14 +127,19 @@
     </style>
   </head>
   <body>
-
-
-    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>AIRPORT INFORMATION</b></h1>
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <div class="content">
+     
+    
+       
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;<b>AIRPORT </b></h1>
     <hr>
 
     <div class="main-block">
         
-      <h1>Airport</h1>
+      <h1>INFORMATION</h1>
       <form action="/addairport" method="post" enctype="multipart/form-data">
         <div class="info">
           <input class="fname" type="text" name="name" placeholder="Name of Airport">
@@ -143,8 +148,9 @@
           <input type="number" name="cleanliness" placeholder="Cleanliness">
           <input type="number" name="ranking" placeholder="Airport Ranking">
           <input type="number" name="traffic" placeholder="Airport traffic">
-          <input type="number" name="airlines" placeholder="Number of Airlines">
-          <label for="image" ><u>Upload the image of the airport here:</u></label>
+          <input type="number" name="airlines" placeholder="Number of Airlines"><br>
+          <label for="image" ><u>Upload the image of the airport :</u></label>
+          <br><br>
           <input type="file" name="image">
           <% if(messages.success){ %>
             <%= messages.success %>
@@ -179,8 +185,9 @@
           </div>
         </div>
         
-        <input type="submit" value="submit">
+        <input type="submit"  value="submit">
       </form>
+    </div>
     </div>
   </body>
 </html>

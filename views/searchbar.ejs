@@ -1,19 +1,60 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/search.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <!-- <noscript><link rel="stylesheet" href="assets/css/search.css" /></noscript> -->
 
 </head>
 <body>
+    
+    <div id="page-wrapper">
 
+       
+
+                <!-- Nav -->
+                    <nav id="nav">
+                        <ul>
+                            <li><a href="/index">Home</a></li>
+                            
+                            <li><a href="/login"> Admin Login</a></li>
+                        
+                            <li><a href="/rightsidebar">About Us</a></li>
+                            <li>
+                                <a href="/viewairport">Airport list</a>
+                            </li>
+                            <li><a href="/searchbar">Search Airports by city</a></li>
+                        </ul>
+                    </nav>
+
+            </div>
+
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <div class="content">
+      
+    
     <form action="/search" method="post">
-        <label for="city">SELECT YOUR CITY</label>
+        <label for="city" style="font-weight: 900;";>SELECT YOUR CITY</label>
+        
+
      <select name="city" >
+       
          <option value="New Delhi">NEW DELHI </option>
          <option value="New york">NEW YORK </option>
+         <option value="Mumbai">MUMBAI </option>
+         
      </select>
+     <br>
      <input type="submit" > 
 
     </form>
-   
+</div>
+      
+
 </body>
 </html>
