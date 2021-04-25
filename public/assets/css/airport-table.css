@@ -1,0 +1,16 @@
+.table-container {
+  transform: translateX(-20.2%) !important;
+
+  margin-right: 200px !important;
+  width: 100vw !important;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
+}
+.table {
+  transform: translateX(0) !important;
+  position: relative;
+  object-fit: cover;
+  width: 100% !important;
+}
