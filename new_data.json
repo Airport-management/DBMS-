@@ -1,0 +1,3063 @@
+[
+  {
+    "cleanliness": 97.06382353252724,
+    "taxi": [
+      "Five Fun Taxi",
+      "Radio Cab"
+    ],
+    "food": [
+      "Thomas Foods International",
+      "Beerenberg Farm",
+      "Yili Group",
+      "Murray Goulburn Co-operative",
+      "Julius Meinl",
+      "Lion Dairy & Drinks",
+      "COFCO Group",
+      "Bakers Delight",
+      "Vigor S.A."
+    ],
+    "recommendations": [
+      "White Water River Rafting Class II-III from La Fortuna-Arenal",
+      "Maui Parasailing Experience"
+    ],
+    "name": "Malaga Airport",
+    "city": "Malaga",
+    "state": "Andalucia",
+    "country": "Spain",
+    "url": "http://www.aena.es/csee/Satellite?cid=1048858947193&pagename=Est",
+    "Airlines-No": "106",
+    "traffic": 42.4
+  },
+  {
+    "cleanliness": 98.73665967963518,
+    "taxi": [
+      "Prestige Taxi",
+      "Hood River Taxi",
+      "Taxi Associates",
+      "Uber"
+    ],
+    "food": [
+      "Le Pain Quotidien",
+      "Isis Central Sugar Mill",
+      "Bundaberg Brewed Drinks"
+    ],
+    "recommendations": [
+      "Orlando Sunrise Hot-Air Balloon Ride",
+      "Mogollon Rim Off-Road Tour"
+    ],
+    "name": "Alicante Airport",
+    "city": "Elx",
+    "state": "Valencia",
+    "country": "Spain",
+    "url": "",
+    "Airlines-No": "91",
+    "traffic": 36.4
+  },
+  {
+    "cleanliness": 93.09993460910293,
+    "taxi": [
+      "SunShine Transportation",
+      "Bliss Taxi"
+    ],
+    "food": [
+      "Frosty Boy",
+      "Convenience Retail Asia",
+      "Neuhaus",
+      "Lotus Bakeries"
+    ],
+    "recommendations": [
+      "Mogollon Rim Off-Road Tour",
+      "Loch Lomond and Trossachs National Park Tour"
+    ],
+    "name": "Schiphol Airport",
+    "city": "Schiphol Zuid",
+    "state": "North Holland",
+    "country": "Netherlands",
+    "url": "http://www.schiphol.com/",
+    "Airlines-No": "284",
+    "traffic": 113.6
+  },
+  {
+    "cleanliness": 99.36349865744322,
+    "taxi": [
+      "Spirit Swift",
+      "Miami Taxi"
+    ],
+    "food": [
+      "Hangzhou Wahaha Group",
+      "Vinagro",
+      "Ferguson Plarre Bakehouses",
+      "IANSA",
+      "Global Sweeteners",
+      "Schweppes",
+      "Vanparys",
+      "So Natural",
+      "Manner",
+      "Agropur"
+    ],
+    "recommendations": [
+      "2-Hour Seattle City Tour",
+      "Kennedy Space Center at Cape Canaveral"
+    ],
+    "name": "Arlanda Airport",
+    "city": "Märst",
+    "state": "Stockholm",
+    "country": "Sweden",
+    "url": "http://www.arlanda.se",
+    "Airlines-No": "126",
+    "traffic": 50.4
+  },
+  {
+    "cleanliness": 91.44857902816705,
+    "taxi": [
+      "Mercury Cab",
+      "QuickCab",
+      "Ray Taxi"
+    ],
+    "food": [
+      "Warrnambool Cheese and Butter",
+      "Sanitarium",
+      "Balfours",
+      "Ferguson Plarre Bakehouses",
+      "Castaño"
+    ],
+    "recommendations": [
+      "Koloa Zipline",
+      "1916 Rebellion Walking Tour"
+    ],
+    "name": "Eleftherios Venizelos International Airport",
+    "city": "Athens",
+    "state": "Attiki",
+    "country": "Greece",
+    "url": "http://www.aia.gr",
+    "Airlines-No": "117",
+    "traffic": 46.800000000000004
+  },
+  {
+    "cleanliness": 96.93807824834056,
+    "taxi": [
+      "Hood River Taxi",
+      "Five Fun Taxi",
+      "Transportation Solutions",
+      "Orange",
+      "24Hrs Cab Service"
+    ],
+    "food": [
+      "IANSA",
+      "Shuanghui",
+      "Zoo Holdings Group",
+      "Sustagen",
+      "So Natural",
+      "Organic Meadow Cooperative",
+      "Schweppes",
+      "Baskin-Robbins",
+      "Darrell Lea",
+      "Confiserie Roodthooft"
+    ],
+    "recommendations": [
+      "Norwegian Fjords Tour Including Professional Photos in Tromso",
+      "Orlando Sunrise Hot-Air Balloon Ride"
+    ],
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "country": "United States",
+    "url": "http://www.atlanta-airport.com/",
+    "Airlines-No": "253",
+    "traffic": 101.2
+  },
+  {
+    "cleanliness": 99.21055549504278,
+    "taxi": [
+      "Jerby Spot Cab",
+      "Two Happy"
+    ],
+    "food": [
+      "Olymel",
+      "M&M Food Market",
+      "Fujian Dali Group"
+    ],
+    "recommendations": [
+      "Sunset Sail in Key West with Cocktails and Hors D’oeuvres",
+      "Private Customizable Sailing Tour in Cancun"
+    ],
+    "name": "Abu Dhabi International Airport",
+    "city": "Abu Dhabi",
+    "state": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "url": "http://www.dcaauh.gov.ae/english/abudhabi/introduction.htm#",
+    "Airlines-No": "76",
+    "traffic": 30.4
+  },
+  {
+    "cleanliness": 96.31360085789365,
+    "taxi": [
+      "Perfect Taxi",
+      "California Cab Company",
+      "Lugosi Cab",
+      "American Shuttle",
+      "Early Wish",
+      "East Taxi"
+    ],
+    "food": [
+      "Zvečevo",
+      "Bellamy's",
+      "Lester's Foods Ltd.",
+      "Canyon Creek Food Company",
+      "Schweppes",
+      "Norco Co-operative",
+      "Voortman Cookies",
+      "Isis Central Sugar Mill",
+      "Lion Dairy & Drinks"
+    ],
+    "recommendations": [
+      "Koloa Zipline",
+      "Charleston’s Alleys and Hidden Passages"
+    ],
+    "name": "Barcelona International Airport",
+    "city": "El Prat de Llobregat",
+    "state": "Catalonia",
+    "country": "Spain",
+    "url": "http://www.aena.es",
+    "Airlines-No": "145",
+    "traffic": 57.99999999999999
+  },
+  {
+    "cleanliness": 96.51504169511445,
+    "taxi": [
+      "DeSoto Cab Co.",
+      "Lugosi Cab"
+    ],
+    "food": [
+      "Convenience Retail Asia",
+      "Confiserie Roodthooft",
+      "Wendy's Supa Sundaes",
+      "Metro Inc.",
+      "Olymel",
+      "Do & Co",
+      "Amoy Food",
+      "Huiyuan Juice",
+      "Vinagro"
+    ],
+    "recommendations": [
+      " Tandem Parasail Flight over the Bay of Islands",
+      "Mogollon Rim Off-Road Tour"
+    ],
+    "name": "Birmingham International Airport",
+    "city": "Birmingham",
+    "state": "England",
+    "country": "United Kingdom",
+    "url": "http://www.bhx.co.uk/",
+    "Airlines-No": "103",
+    "traffic": 41.199999999999996
+  },
+  {
+    "cleanliness": 99.3946627848103,
+    "taxi": [
+      "The Taxi Company",
+      "Trusted Taxi Co.",
+      "Lugosi Cab"
+    ],
+    "food": [
+      "Baiada Poultry",
+      "Meurens",
+      "The a2 Milk Company",
+      "Pez",
+      "Lassonde Industries",
+      "Preshafood",
+      "Dare Foods",
+      "Balfours",
+      "Agrana",
+      "Sustagen"
+    ],
+    "recommendations": [
+      "Diamondback Gulch by Off-Road Jeep from Sedona",
+      "Parasailing in Key West"
+    ],
+    "name": "Bangkok International Airport",
+    "city": "Lak Si",
+    "state": "Bangkok",
+    "country": "Thailand",
+    "url": "http://www.airportthai.co.th/airportnew/bia/html/",
+    "Airlines-No": "132",
+    "traffic": 52.800000000000004
+  },
+  {
+    "cleanliness": 97.57455582018957,
+    "taxi": [
+      "Odessy",
+      "Mercury Cab",
+      "Broadway Cab",
+      "LA Taxi"
+    ],
+    "food": [
+      "International Meal Company",
+      "Zvečevo",
+      "Bright Food"
+    ],
+    "recommendations": [
+      "Diamondback Gulch by Off-Road Jeep from Sedona",
+      "Maui Jungle Zipline Tour"
+    ],
+    "name": "Chhatrapati Shivaji International Airport",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "url": "http://www.airportsindia.org.in/aai/mumbai/index.htm",
+    "Airlines-No": "86",
+    "traffic": 34.4
+  },
+  {
+    "cleanliness": 98.7261203515475,
+    "taxi": [
+      "Red Thunder Taxi",
+      "The Brown Eagle",
+      "Independent Taxi",
+      "United Taxi",
+      "SunShine Transportation",
+      "Two Happy"
+    ],
+    "food": [
+      "BRF S.A.",
+      "Baiada Poultry"
+    ],
+    "recommendations": [
+      "Twilight Wine and Craft Beer Tour",
+      "Segway Tour of Old Town Scottsdale"
+    ],
+    "name": "Gen E L Logan International Airport",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "113",
+    "traffic": 45.2
+  },
+  {
+    "cleanliness": 92.91602639085251,
+    "taxi": [
+      "Easy Shuttle",
+      "Red Coach",
+      "Epic Taxi",
+      "QuickCab",
+      "Scoop U Up",
+      "Wheel Box"
+    ],
+    "food": [
+      "BRF S.A.",
+      "Want Want",
+      "Bickford's",
+      "Red Bull GmbH",
+      "Preshafood",
+      "Voortman Cookies"
+    ],
+    "recommendations": [
+      "Half-Day Hanoi Food Tour",
+      "3-Hour Madeira Scenic Island Tour by Motorcycle Sidecar"
+    ],
+    "name": "Brussels Airport",
+    "city": "Bruxelles",
+    "state": "Vlaams Brabant",
+    "country": "Belgium",
+    "url": "http://www.brusselsairport.be",
+    "Airlines-No": "186",
+    "traffic": 74.4
+  },
+  {
+    "cleanliness": 98.78530533931036,
+    "taxi": [
+      "Red Thunder Taxi",
+      "Trusted Taxi Co.",
+      "Mercury Cab"
+    ],
+    "food": [
+      "Sanitarium",
+      "Neuhaus",
+      "Just Us!",
+      "Yurun Group",
+      "Anheuser-Busch InBev",
+      "Bickford's"
+    ],
+    "recommendations": [
+      "Whiskey Tasting Tour of Dublin",
+      "Lisbon Go 7 Hills Electric Bike Tour"
+    ],
+    "name": "Ferihegy Airport",
+    "city": "Budapest",
+    "state": "Budapest",
+    "country": "Hungary",
+    "url": "http://www.bud.hu",
+    "Airlines-No": "102",
+    "traffic": 40.8
+  },
+  {
+    "cleanliness": 93.26875330178338,
+    "taxi": [
+      "White Cab",
+      "The Arrow",
+      "Broad Dyckman Car Services",
+      "QuickCab"
+    ],
+    "food": [
+      "Rauch",
+      "Leonidas",
+      "Canyon Creek Food Company"
+    ],
+    "recommendations": [
+      "Sunset Sail in Key West with Cocktails and Hors D’oeuvres",
+      "Mogollon Rim Off-Road Tour"
+    ],
+    "name": "Baltimore-Washington International Thurgood Mars",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "country": "United States",
+    "url": "http://www.bwiairport.com",
+    "Airlines-No": "79",
+    "traffic": 31.6
+  },
+  {
+    "cleanliness": 88.3797575881511,
+    "taxi": [
+      "California Cab Company",
+      "United Taxi",
+      "Mercury Cab",
+      "Prestige Taxi"
+    ],
+    "food": [
+      "Leonidas",
+      "Mike's Hard Lemonade Co.",
+      "Viro",
+      "San Remo Macaroni Company",
+      "Lester's Foods Ltd.",
+      "Dan-D Foods",
+      "Retail Food Group",
+      "Brauerei Ottakringer",
+      "Kawartha Dairy Company",
+      "Warrnambool Cheese and Butter",
+      "Lassonde Industries"
+    ],
+    "recommendations": [
+      "Secrets of Sintra and Cascais Private Tour",
+      "Reindeer Feeding, Lasso Throwing, and Sami Culture Tour Including Lunch from Tromso"
+    ],
+    "name": "Cairo International Airport",
+    "city": "Cairo",
+    "state": "Al Qahirah",
+    "country": "Egypt",
+    "url": "http://www.cairo-airport.com/",
+    "Airlines-No": "92",
+    "traffic": 36.8
+  },
+  {
+    "cleanliness": 88.11365541012964,
+    "taxi": [
+      "The Moulton Shuttle",
+      "Taxi Associates",
+      "Ezy Cab",
+      "Trusted Taxi Co.",
+      "The Taxi Company",
+      "Quest Cab"
+    ],
+    "food": [
+      "Restaurant Brands International",
+      "Glacio",
+      "Yili Group",
+      "Huon Aquaculture",
+      "Murray Goulburn Co-operative",
+      "Dachan Food"
+    ],
+    "recommendations": [
+      "Manatee Kayak Tour at Blue Springs State Park",
+      "Sunset Hot Air Balloon Ride over Phoenix"
+    ],
+    "name": "Baiyun Airport",
+    "city": "Guangzhou",
+    "state": "Guangdong",
+    "country": "China",
+    "url": "",
+    "Airlines-No": "111",
+    "traffic": 44.4
+  },
+  {
+    "cleanliness": 89.00511648116562,
+    "taxi": [
+      "Early Wish",
+      "Friendly Taxi"
+    ],
+    "food": [
+      "Hanwei Group",
+      "Retail Food Group",
+      "Norco Co-operative",
+      "McCain Foods",
+      "Mrs Mac's Pies",
+      "Dachan Food",
+      "Meurens",
+      "Naya Waters",
+      "Haigh's Chocolates",
+      "Nuttelex",
+      "Saputo"
+    ],
+    "recommendations": [
+      "Mississippi Avenue Food Tour",
+      "Koloa Zipline"
+    ],
+    "name": "Charles de Gaulle International Airport",
+    "city": "Le Mesnil-Amelot",
+    "state": "Ile-de-France",
+    "country": "France",
+    "url": "",
+    "Airlines-No": "310",
+    "traffic": 124
+  },
+  {
+    "cleanliness": 97.33176243711146,
+    "taxi": [
+      "Plex",
+      "Easy Cabs",
+      "Tessor Cab",
+      "Emerald City Taxi",
+      "United Taxi"
+    ],
+    "food": [
+      "Nature's Path",
+      "Warrnambool Cheese and Butter",
+      "Dan-D Foods"
+    ],
+    "recommendations": [
+      "Secrets of Sintra and Cascais Private Tour",
+      " Ocean Kayak Tours"
+    ],
+    "name": "Cologne Bonn Airport",
+    "city": "Cologne",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "url": "http://www.koeln-bonn-airport.de/index.php",
+    "Airlines-No": "129",
+    "traffic": 51.6
+  },
+  {
+    "cleanliness": 88.5447988810285,
+    "taxi": [
+      "Orange",
+      "Groove Cab",
+      "NYC Taxi",
+      "West bay Cab",
+      "Circle Hub"
+    ],
+    "food": [
+      "Julius Meinl",
+      "Purdy's Chocolates",
+      "Weis",
+      "Fujian Dali Group",
+      "Copacol",
+      "Preshafood",
+      "Vigor S.A."
+    ],
+    "recommendations": [
+      "South Shore Private Sightseeing Cruise in Puerto Vallarta",
+      "Segway Tour of Old Town Scottsdale"
+    ],
+    "name": "Hopkins International Airport",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "102",
+    "traffic": 40.8
+  },
+  {
+    "cleanliness": 88.66467033744745,
+    "taxi": [
+      "Hood River Taxi",
+      "Groove Cab",
+      "Terby",
+      "Independent Taxi"
+    ],
+    "food": [
+      "Canyon Creek Food Company",
+      "Earth's Own Food Company",
+      "Balfours",
+      "Confiserie Roodthooft",
+      "Julius Meinl"
+    ],
+    "recommendations": [
+      "Kauai Deluxe Sightseeing Flight",
+      "St.Petersburg Private Tour of The Hermitage Museum"
+    ],
+    "name": "Douglas International Airport",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "country": "United States",
+    "url": "http://www.charmeck.org/Departments/Airport/Home.htm",
+    "Airlines-No": "133",
+    "traffic": 53.2
+  },
+  {
+    "cleanliness": 91.5101472122498,
+    "taxi": [
+      "The Brown Eagle",
+      "Bottom Cab",
+      "Ezy Cab"
+    ],
+    "food": [
+      "Uni-President Enterprises Corporation",
+      "Compañía de las Cervecerías Unidas",
+      "Confiserie Roodthooft",
+      "Darrell Lea",
+      "Xinjiang Chalkis Co.Ltd"
+    ],
+    "recommendations": [
+      "Orlando Sunrise Hot-Air Balloon Ride",
+      "Anchorage Craft Brewery Tour and Tastings"
+    ],
+    "name": "Copenhagen Airport",
+    "city": "Kastrup",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "url": "http://www.cph.dk",
+    "Airlines-No": "136",
+    "traffic": 54.400000000000006
+  },
+  {
+    "cleanliness": 92.30130519006144,
+    "taxi": [
+      "ABC Cab Company",
+      "Early Wish",
+      "Cascade Taxi Company",
+      "Independent Taxi"
+    ],
+    "food": [
+      "Lion Dairy & Drinks",
+      "Three Threes Condiments",
+      "George Weston Limited",
+      "Chapman's",
+      "Leonidas",
+      "Just Us!",
+      "Norco Co-operative",
+      "Purity Factories",
+      "Baiada Poultry",
+      "Gay Lea"
+    ],
+    "recommendations": [
+      "1916 Rebellion Walking Tour",
+      "Queenstown Nevis Highwire Bungy Jump"
+    ],
+    "name": "Greater Cincinnati International Airport",
+    "city": "Hebron",
+    "state": "Ohio",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "115",
+    "traffic": 46
+  },
+  {
+    "cleanliness": 93.4692544869936,
+    "taxi": [
+      "Early Wish",
+      "Jerby Spot Cab"
+    ],
+    "food": [
+      "Mengniu Dairy",
+      "Amoy Food",
+      "Baskin-Robbins",
+      "Sustagen",
+      "Retail Food Group",
+      "Concha y Toro",
+      "Jim Pattison Group",
+      "Sobeys",
+      "Vitta Foods"
+    ],
+    "recommendations": [
+      "Parasailing in Key West",
+      " Tandem Parasail Flight over the Bay of Islands"
+    ],
+    "name": "Washington National Airport",
+    "city": "Arlington",
+    "state": "Virginia",
+    "country": "United States",
+    "url": "http://metwashairports.com/reagan",
+    "Airlines-No": "77",
+    "traffic": 30.8
+  },
+  {
+    "cleanliness": 95.733541098145,
+    "taxi": [
+      "The Taxi Company",
+      "Taxi & Towncar",
+      "Terby",
+      "Travel Surf",
+      "Scoop U Up"
+    ],
+    "food": [
+      "Warrnambool Cheese and Butter",
+      "Cavalier Chocolate",
+      "Glacio",
+      "Recipe Unlimited",
+      "Beerenberg Farm"
+    ],
+    "recommendations": [
+      "3-Day Uluru Camping Tour from Alice Springs Including Kata Tjuta and Kings Canyon",
+      "Small Group Night Volcano Tour – Witness Kilauea Eruption From a Safe Distance"
+    ],
+    "name": "Indira Gandhi International Airport",
+    "city": "New Delhi",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "url": "",
+    "Airlines-No": "95",
+    "traffic": 38
+  },
+  {
+    "cleanliness": 89.69021500992389,
+    "taxi": [
+      "Easy Cabs",
+      "First Hug",
+      "Independent Taxi",
+      "Scoop U Up",
+      "Spirit Swift",
+      "QuickCab"
+    ],
+    "food": [
+      "Laura Secord Chocolates",
+      "Xinjiang Chalkis Co.Ltd",
+      "Amoy Food"
+    ],
+    "recommendations": [
+      "Whale Watching RIB Boat Tour from Husavik",
+      " Ocean Kayak Tours"
+    ],
+    "name": "Denver International Airport",
+    "city": "Denver",
+    "state": "Colorado",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "162",
+    "traffic": 64.8
+  },
+  {
+    "cleanliness": 96.60717402790607,
+    "taxi": [
+      "Travel Planet",
+      "SunShine Transportation",
+      "Independent Taxi"
+    ],
+    "food": [
+      "Lotus Bakeries",
+      "George Weston Limited",
+      "Vanparys",
+      "Nomad Foods",
+      "Tassal",
+      "M&M Food Market",
+      "Darrell Lea",
+      "Premium Brands Holdings Corporation",
+      "Jim Pattison Group",
+      "Sobeys",
+      "Lassonde Industries"
+    ],
+    "recommendations": [
+      "Loch Lomond and Trossachs National Park Tour",
+      "Ayers Rock (Uluru) Sunrise and Segway"
+    ],
+    "name": "Fort Worth International Airport",
+    "city": "Dallas",
+    "state": "Texas",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "179",
+    "traffic": 71.6
+  },
+  {
+    "cleanliness": 89.64083311459166,
+    "taxi": [
+      "Orbin Cab",
+      "Scoop U Up"
+    ],
+    "food": [
+      "Confiserie Roodthooft",
+      "Murray Goulburn Co-operative",
+      "Sanitarium",
+      "Agrana",
+      "Retail Food Group",
+      "Nature's Path",
+      "Lion Dairy & Drinks",
+      "Anheuser-Busch InBev",
+      "Grupo Petrópolis"
+    ],
+    "recommendations": [
+      "Santorini First Impressions Private Tour",
+      "Private Monteverde Cloud Forest Walk"
+    ],
+    "name": "Domodedovo Airport",
+    "city": "Podol'sk",
+    "state": "Moskovskaya Oblast",
+    "country": "Russia",
+    "url": "http://www.domodedovo.ru",
+    "Airlines-No": "165",
+    "traffic": 66
+  },
+  {
+    "cleanliness": 92.59250125690997,
+    "taxi": [
+      "Jerby Spot Cab",
+      "First Hug",
+      "East Taxi",
+      "Broad Dyckman Car Services",
+      "Radiant Cab"
+    ],
+    "food": [
+      "Confiserie Roodthooft",
+      "Laura Secord Chocolates",
+      "Huiyuan Juice",
+      "Ernest Hillier Chocolates",
+      "Lassonde Industries"
+    ],
+    "recommendations": [
+      "Private Los 7 Cenotes with Lunch and Bike Ride from Merida",
+      "Half-Day History and Ecology Trek at the Makauwahi Cave Reserve"
+    ],
+    "name": "Doha International Airport",
+    "city": "Doha",
+    "state": "Doha",
+    "country": "Qatar",
+    "url": "",
+    "Airlines-No": "87",
+    "traffic": 34.8
+  },
+  {
+    "cleanliness": 90.167231945952,
+    "taxi": [
+      "Fussion Fast",
+      "Transportation Solutions",
+      "First Hug",
+      "Circle Hub",
+      "Out of the Way Taxi"
+    ],
+    "food": [
+      "Baiada Poultry",
+      "Vinagro",
+      "Restaurant Brands International",
+      "Three Threes Condiments",
+      "Rauch",
+      "Shollar water"
+    ],
+    "recommendations": [
+      "Sierra Madre ATV Adventure from Puerto Vallarta",
+      "Evening Hoi An Food Tour by Bike"
+    ],
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "city": "Detroit",
+    "state": "Michigan",
+    "country": "United States",
+    "url": "http://www.metroairport.com/",
+    "Airlines-No": "161",
+    "traffic": 64.4
+  },
+  {
+    "cleanliness": 90.81963876022888,
+    "taxi": [
+      "Violet Taxi",
+      "ABC Cab Company",
+      "Emerald City Taxi",
+      "First Cab",
+      "Easy Shuttle",
+      "Early Wish"
+    ],
+    "food": [
+      "Shollar water",
+      "Gay Lea",
+      "San Remo Macaroni Company",
+      "Dare Foods",
+      "Nature's Path",
+      "Balfours",
+      "Ting Hsin International Group"
+    ],
+    "recommendations": [
+      "Reindeer Feeding, Lasso Throwing, and Sami Culture Tour Including Lunch from Tromso",
+      "5-Hour Private Cruise from Fira"
+    ],
+    "name": "Dublin Airport",
+    "city": "Cloghran",
+    "state": "",
+    "country": "Ireland",
+    "url": "http://www.dub.aero",
+    "Airlines-No": "167",
+    "traffic": 66.8
+  },
+  {
+    "cleanliness": 95.92706742686762,
+    "taxi": [
+      "Ray Taxi",
+      "Odessy",
+      "24Hrs Cab Service"
+    ],
+    "food": [
+      "Fufeng Group",
+      "Huiyuan Juice",
+      "SunOpta",
+      "Agrana",
+      "Red Bull GmbH",
+      "Preshafood"
+    ],
+    "recommendations": [
+      "Full-Day Mekong Delta Bike Tour from Ho Chi Minh City",
+      "Kauai Deluxe Sightseeing Flight"
+    ],
+    "name": "Dusseldorf International Airport",
+    "city": "Dusseldorf",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "url": "http://www.duesseldorf-international.de/",
+    "Airlines-No": "167",
+    "traffic": 66.8
+  },
+  {
+    "cleanliness": 94.07808939733016,
+    "taxi": [
+      "Pink Taxis",
+      "Taxi Element",
+      "NYC Taxi",
+      "The Taxi Company",
+      "Crew cab"
+    ],
+    "food": [
+      "Ernest Hillier Chocolates",
+      "Nomad Foods"
+    ],
+    "recommendations": [
+      "Segway Tour of Old Town Scottsdale",
+      "Half-Day Hanoi Food Tour"
+    ],
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "state": "Dubai",
+    "country": "United Arab Emirates",
+    "url": "http://www.dubaiairport.com",
+    "Airlines-No": "170",
+    "traffic": 68
+  },
+  {
+    "cleanliness": 91.99810950653641,
+    "taxi": [
+      "Urban Time",
+      "Altus Car Service",
+      "Red Coach",
+      "Tessor Cab",
+      "Miami Taxi",
+      "OttoMattic"
+    ],
+    "food": [
+      "Premium Brands Holdings Corporation",
+      "Warrnambool Cheese and Butter",
+      "Camperdown Dairy International",
+      "Ysco",
+      "Sobeys",
+      "Chaoda Modern Agriculture",
+      "M&M Food Market",
+      "International Meal Company",
+      "Baskin-Robbins",
+      "Ting Hsin International Group",
+      "Isis Central Sugar Mill"
+    ],
+    "recommendations": [
+      "White Water River Rafting Class II-III from La Fortuna-Arenal",
+      "Kaituna White-Water Rafting Adventure"
+    ],
+    "name": "Edinburgh International Airport",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "country": "United Kingdom",
+    "url": "http://www.edinburghairport.com",
+    "Airlines-No": "87",
+    "traffic": 34.8
+  },
+  {
+    "cleanliness": 91.52749829358474,
+    "taxi": [
+      "Emerald City Taxi",
+      "QuickCab",
+      "Taxi & Towncar"
+    ],
+    "food": [
+      "Wesfarmers",
+      "Lester's Foods Ltd.",
+      "Earth's Own Food Company",
+      "Haigh's Chocolates",
+      "Le Pain Quotidien",
+      "George Weston Limited",
+      "Frosty Boy",
+      "Camperdown Dairy International",
+      "Metro Inc.",
+      "So Natural"
+    ],
+    "recommendations": [
+      "Queenstown Nevis Highwire Bungy Jump",
+      "Small Group Kayak and Snorkel Eco Tour"
+    ],
+    "name": "Newark International Airport",
+    "city": "Newark",
+    "state": "New Jersey",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "220",
+    "traffic": 88
+  },
+  {
+    "cleanliness": 90.08670686637835,
+    "taxi": [
+      "OTS- On The Spot",
+      "Tour Nest",
+      "Trusted Taxi Co.",
+      "Broad Dyckman Car Services",
+      "Easy Cabs"
+    ],
+    "food": [
+      "Wendy's Supa Sundaes",
+      "Agropur",
+      "Mengniu Dairy",
+      "Thomas Foods International",
+      "Brauerei Ottakringer",
+      "Anheuser-Busch InBev"
+    ],
+    "recommendations": [
+      "White Water River Rafting Class II-III from La Fortuna-Arenal",
+      "5-Hour Private Cruise from Fira"
+    ],
+    "name": "Leonardo da Vinci International Airport",
+    "city": "Rome",
+    "state": "Lazio",
+    "country": "Italy",
+    "url": "http://www.adr.it/",
+    "Airlines-No": "181",
+    "traffic": 72.39999999999999
+  },
+  {
+    "cleanliness": 91.0754175149154,
+    "taxi": [
+      "Ray Taxi",
+      "Taxi & Towncar",
+      "The Arrow",
+      "Jerby Spot Cab",
+      "Speedbolt",
+      "Crew cab"
+    ],
+    "food": [
+      "So Natural",
+      "Ting Hsin International Group",
+      "Kweichow Moutai Company",
+      "Want Want",
+      "Premium Brands Holdings Corporation",
+      "Xinjiang Chalkis Co.Ltd"
+    ],
+    "recommendations": [
+      "Private Tours at Disneyland and California Adventure",
+      "Parasailing in Key West"
+    ],
+    "name": "Fort Lauderdale Hollywood International Airport",
+    "city": "Dania Beach",
+    "state": "Florida",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "108",
+    "traffic": 43.2
+  },
+  {
+    "cleanliness": 88.54772466694163,
+    "taxi": [
+      "Jamie’s Transport Service",
+      "Perfect Taxi",
+      "The Taxi Company",
+      "Orbin Cab",
+      "West bay Cab",
+      "Easy Cabs"
+    ],
+    "food": [
+      "Ernest Hillier Chocolates",
+      "International Meal Company"
+    ],
+    "recommendations": [
+      "Makena Turtle Town Eco Adventure in Maui",
+      "Whale Watching RIB Boat Tour from Husavik"
+    ],
+    "name": "Frankfurt International Airport",
+    "city": "Frankfurt",
+    "state": "Hesse",
+    "country": "Germany",
+    "url": "http://www.airportcity-frankfurt.de",
+    "Airlines-No": "337",
+    "traffic": 134.8
+  },
+  {
+    "cleanliness": 95.85583319651226,
+    "taxi": [
+      "United Taxi",
+      "Pink Taxis",
+      "Too Much Cab",
+      "Shuttles’R’Us"
+    ],
+    "food": [
+      "Hangzhou Wahaha Group",
+      "Anheuser-Busch InBev",
+      "Fujian Dali Group",
+      "Want Want",
+      "Chapman's"
+    ],
+    "recommendations": [
+      "Tutukau Gorge Jet Boat Ride and The Squeeze",
+      "Makena Turtle Town Eco Adventure in Maui"
+    ],
+    "name": "Geneva Airport",
+    "city": "Geneva",
+    "state": "Canton of Geneva",
+    "country": "Switzerland",
+    "url": "http://www.gva.ch",
+    "Airlines-No": "122",
+    "traffic": 48.8
+  },
+  {
+    "cleanliness": 93.5875732518303,
+    "taxi": [
+      "Circle Hub",
+      "Orbin Cab",
+      "First Cab",
+      "24Hrs Cab Service",
+      "Jamie’s Transport Service"
+    ],
+    "food": [
+      "Naya Waters",
+      "Rauch",
+      "Uni-President Enterprises Corporation",
+      "Bulla Dairy Foods"
+    ],
+    "recommendations": [
+      "Small Group Night Volcano Tour – Witness Kilauea Eruption From a Safe Distance",
+      "Maui Jungle Zipline Tour"
+    ],
+    "name": "Hannover International Airport",
+    "city": "Langenhagen",
+    "state": "Lower Saxony",
+    "country": "Germany",
+    "url": "",
+    "Airlines-No": "86",
+    "traffic": 34.4
+  },
+  {
+    "cleanliness": 90.69450580620409,
+    "taxi": [
+      "California Cab Company",
+      "United Taxi",
+      "Plex"
+    ],
+    "food": [
+      "Earth's Own Food Company",
+      "So Natural",
+      "Yurun Group"
+    ],
+    "recommendations": [
+      "Santorini Wine Roads Tour with Wine Tastings",
+      "Sierra Madre ATV Adventure from Puerto Vallarta"
+    ],
+    "name": "Hamburg Airport",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "Germany",
+    "url": "http://www.hamburg-airport.de",
+    "Airlines-No": "112",
+    "traffic": 44.800000000000004
+  },
+  {
+    "cleanliness": 97.78372082312809,
+    "taxi": [
+      "Cool Cabs",
+      "Emerald City Taxi",
+      "Pink Taxis"
+    ],
+    "food": [
+      "Baskin-Robbins",
+      "Canyon Creek Food Company"
+    ],
+    "recommendations": [
+      " Ocean Kayak Tours",
+      "Aurora Borealis Private Night Tour from Tromso"
+    ],
+    "name": "Helsinki Vantaa Airport",
+    "city": "Vantaa",
+    "state": "Southern Finland",
+    "country": "Finland",
+    "url": "http://www.helsinki-vantaa.fi/",
+    "Airlines-No": "104",
+    "traffic": 41.6
+  },
+  {
+    "cleanliness": 93.06747275473305,
+    "taxi": [
+      "American Shuttle",
+      "Taxi Associates"
+    ],
+    "food": [
+      "Lassonde Industries",
+      "Isis Central Sugar Mill",
+      "Dachan Food",
+      "Ysco"
+    ],
+    "recommendations": [
+      "Reindeer Feeding, Lasso Throwing, and Sami Culture Tour Including Lunch from Tromso",
+      "Koloa Zipline"
+    ],
+    "name": "Hong Kong International Airport",
+    "city": "Hong Kong",
+    "state": "Hong Kong Island",
+    "country": "Hong Kong",
+    "url": "http://www.hongkongairport.com/",
+    "Airlines-No": "131",
+    "traffic": 52.400000000000006
+  },
+  {
+    "cleanliness": 89.62935237972108,
+    "taxi": [
+      "Travel Surf",
+      "Getting There",
+      "Jerby Spot Cab",
+      "One Ride"
+    ],
+    "food": [
+      "Kweichow Moutai Company",
+      "Mrs Mac's Pies"
+    ],
+    "recommendations": [
+      "Half-Day Milford Sound Flight and Cruise from Queenstown",
+      "Half-Day History and Ecology Trek at the Makauwahi Cave Reserve"
+    ],
+    "name": "Dulles International Airport",
+    "city": "Washington",
+    "state": "Virginia",
+    "country": "United States",
+    "url": "http://www.metwashairports.com/Dulles/",
+    "Airlines-No": "150",
+    "traffic": 60
+  },
+  {
+    "cleanliness": 97.05617701699317,
+    "taxi": [
+      "Red Thunder Taxi",
+      "Perfect Taxi"
+    ],
+    "food": [
+      "Organic Meadow Cooperative",
+      "Meurens",
+      "Chapman's",
+      "Gay Lea",
+      "Vanparys",
+      "Rauch",
+      "Zoo Holdings Group"
+    ],
+    "recommendations": [
+      "Diamondback Gulch by Off-Road Jeep from Sedona",
+      "Shore Excursion: Three Day Highlights Tour"
+    ],
+    "name": "George Bush Intercontinental Airport",
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "210",
+    "traffic": 84
+  },
+  {
+    "cleanliness": 98.83392091876306,
+    "taxi": [
+      "Sandy Cab",
+      "Odessy"
+    ],
+    "food": [
+      "M&M Food Market",
+      "Mengniu Dairy"
+    ],
+    "recommendations": [
+      "Mogollon Rim Off-Road Tour",
+      "White Water Rafting Day Trip from Hafgrímsstaðir: Grade 4 Rafting on the East Glacial River"
+    ],
+    "name": "New Incheon International Airport",
+    "city": "Incheon",
+    "state": "Incheon",
+    "country": "South Korea",
+    "url": "http://www.airport.or.kr/eng/airport/",
+    "Airlines-No": "139",
+    "traffic": 55.60000000000001
+  },
+  {
+    "cleanliness": 96.13510752872904,
+    "taxi": [
+      "Independent Taxi",
+      "Travel Surf",
+      "The Taxi Company"
+    ],
+    "food": [
+      "Leonidas",
+      "Gay Lea",
+      "Soprole",
+      "International Meal Company",
+      "Marfrig",
+      "Sustagen",
+      "Do & Co",
+      "Canberra Milk"
+    ],
+    "recommendations": [
+      "Twilight Wine and Craft Beer Tour",
+      "Private Customizable Sailing Tour in Cancun"
+    ],
+    "name": "Ataturk Hava Limani Airport",
+    "city": "Bakırköy",
+    "state": "Istanbul",
+    "country": "Turkey",
+    "url": "",
+    "Airlines-No": "157",
+    "traffic": 62.8
+  },
+  {
+    "cleanliness": 95.8320249203074,
+    "taxi": [
+      "West bay Cab",
+      "Terby",
+      "LA Taxi",
+      "Social Zap",
+      "Groove Cab"
+    ],
+    "food": [
+      "Purdy's Chocolates",
+      "George Weston Limited",
+      "Jim Pattison Group"
+    ],
+    "recommendations": [
+      "Sunset Sail in Key West with Cocktails and Hors D’oeuvres",
+      "Secrets of Sintra and Cascais Private Tour"
+    ],
+    "name": "King Abdul Aziz International Airport",
+    "city": "Jeddah",
+    "state": "Makka",
+    "country": "Saudi Arabia",
+    "url": "",
+    "Airlines-No": "106",
+    "traffic": 42.4
+  },
+  {
+    "cleanliness": 98.99332443637353,
+    "taxi": [
+      "Scoop U Up",
+      "Speedbolt",
+      "The Moulton Shuttle"
+    ],
+    "food": [
+      "Yili Group",
+      "Jules Destrooper"
+    ],
+    "recommendations": [
+      "Oregon Coast Tour from Portland",
+      "Puerto Vallarta Adventure Tour: Ziplining, Rappelling and Tequila Tasting"
+    ],
+    "name": "John F Kennedy International Airport",
+    "city": "Jamaica",
+    "state": "New York",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "233",
+    "traffic": 93.2
+  },
+  {
+    "cleanliness": 95.85906450482719,
+    "taxi": [
+      "Easy Shuttle",
+      "Epic Taxi",
+      "Perfect Taxi"
+    ],
+    "food": [
+      "Mike's Hard Lemonade Co.",
+      "MTY Food Group",
+      "Want Want",
+      "Organic Meadow Cooperative",
+      "Metro Inc.",
+      "Kweichow Moutai Company",
+      "Sobeys",
+      "Inghams Enterprises",
+      "Murray Goulburn Co-operative"
+    ],
+    "recommendations": [
+      " Tandem Parasail Flight over the Bay of Islands",
+      "2-Hour Seattle City Tour"
+    ],
+    "name": "OR Tambo International Airport",
+    "city": "Johannesburg",
+    "state": "Gauteng",
+    "country": "South Africa",
+    "url": "http://www.airports.co.za/home.asp?pid=1147",
+    "Airlines-No": "89",
+    "traffic": 35.6
+  },
+  {
+    "cleanliness": 92.0208044347981,
+    "taxi": [
+      "Quest Cab",
+      "DeSoto Cab Co."
+    ],
+    "food": [
+      "Lassonde Industries",
+      "Huon Aquaculture",
+      "Nomad Foods",
+      "Voortman Cookies",
+      "Anheuser-Busch InBev",
+      "Dick Smith Foods",
+      "Zoo Holdings Group"
+    ],
+    "recommendations": [
+      "Koloa Zipline",
+      "Half-Day Hanoi Food Tour"
+    ],
+    "name": "Borispol Airport",
+    "city": "Kiev",
+    "state": "Kyyivs´ka Oblast´",
+    "country": "Ukraine",
+    "url": "http://www.airport-borispol.kiev.ua/",
+    "Airlines-No": "83",
+    "traffic": 33.2
+  },
+  {
+    "cleanliness": 92.60172488594581,
+    "taxi": [
+      "American Shuttle",
+      "Tessor Cab",
+      "Union Cab"
+    ],
+    "food": [
+      "Ganong Bros.",
+      "Concha y Toro",
+      "Baskin-Robbins",
+      "Ting Hsin International Group",
+      "Hanwei Group",
+      "Sofia Mel",
+      "Viro",
+      "Compañía de las Cervecerías Unidas"
+    ],
+    "recommendations": [
+      "Makena Turtle Town Eco Adventure in Maui",
+      "Small Group Night Volcano Tour – Witness Kilauea Eruption From a Safe Distance"
+    ],
+    "name": "Kansai International Airport",
+    "city": "Tajiri-cho",
+    "state": "Osaka Prefecture",
+    "country": "Japan",
+    "url": "http://www.kansai-airport.or.jp",
+    "Airlines-No": "78",
+    "traffic": 31.2
+  },
+  {
+    "cleanliness": 94.64980808159592,
+    "taxi": [
+      "Dexter",
+      "Jerby Spot Cab",
+      "The Moulton Shuttle",
+      "Reliable Cab Service"
+    ],
+    "food": [
+      "Sustagen",
+      "Hangzhou Wahaha Group",
+      "Dairy Farm International Holdings",
+      "Amoy Food",
+      "COFCO Group",
+      "Organic Meadow Cooperative"
+    ],
+    "recommendations": [
+      "Shore Excursion: Three Day Highlights Tour",
+      "Mogollon Rim Off-Road Tour"
+    ],
+    "name": "Kuala Lumpur International Airport",
+    "city": "Sepang",
+    "state": "Putrajaya",
+    "country": "Malaysia",
+    "url": "http://www.klia.com.my/",
+    "Airlines-No": "101",
+    "traffic": 40.400000000000006
+  },
+  {
+    "cleanliness": 88.64465125737439,
+    "taxi": [
+      "Altus Car Service",
+      "Too Much Cab",
+      "Union Cab",
+      "QuickCab"
+    ],
+    "food": [
+      "Chaoda Modern Agriculture",
+      "Ganong Bros.",
+      "Bothwell Cheese",
+      "Convenience Retail Asia",
+      "Organic Meadow Cooperative",
+      "M&M Food Market",
+      "Hanwei Group",
+      "Retail Food Group"
+    ],
+    "recommendations": [
+      "Shore Excursion: Three Day Highlights Tour",
+      "Half-Day Kayak to the Maori Carvings from Taupo"
+    ],
+    "name": "Mccarran International Airport",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "country": "United States",
+    "url": "http://www.mccarran.com",
+    "Airlines-No": "130",
+    "traffic": 52
+  },
+  {
+    "cleanliness": 94.25624462727271,
+    "taxi": [
+      "Plex",
+      "Reliable Cab Service",
+      "Brave Wheel",
+      "Quest Cab"
+    ],
+    "food": [
+      "Global Sweeteners",
+      "Yurun Group",
+      "Balfours",
+      "Zvečevo"
+    ],
+    "recommendations": [
+      "1916 Rebellion Walking Tour",
+      "Private Tours at Disneyland and California Adventure"
+    ],
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "200",
+    "traffic": 80
+  },
+  {
+    "cleanliness": 88.35420449646686,
+    "taxi": [
+      "OTS- On The Spot",
+      "Speedbolt"
+    ],
+    "food": [
+      "Duc d'O",
+      "Zoo Holdings Group",
+      "Yurun Group",
+      "Murray Goulburn Co-operative",
+      "Le Pain Quotidien",
+      "Darrell Lea",
+      "Huon Aquaculture",
+      "Mrs Mac's Pies"
+    ],
+    "recommendations": [
+      "White Water River Rafting Class II-III from La Fortuna-Arenal",
+      "Parasailing in Key West"
+    ],
+    "name": "Pulkuvo 2 Airport",
+    "city": "St. Petersburg",
+    "state": "St. Peterburg",
+    "country": "Russia",
+    "url": "",
+    "Airlines-No": "121",
+    "traffic": 48.4
+  },
+  {
+    "cleanliness": 99.2275216426796,
+    "taxi": [
+      "LA Taxi",
+      "Sandy Cab",
+      "OTS- On The Spot",
+      "Beverly Hills Cab Co.",
+      "Epic Taxi",
+      "United Taxi"
+    ],
+    "food": [
+      "Nature's Path",
+      "Bahra Biscuit Factory",
+      "Warrnambool Cheese and Butter",
+      "Sustagen",
+      "Patties Foods",
+      "Duc d'O",
+      "Marfrig",
+      "Thomas Foods International",
+      "Huon Aquaculture"
+    ],
+    "recommendations": [
+      "Kaituna White-Water Rafting Adventure",
+      "Kona Wild Dolphin and Reef Snorkeling Excursion"
+    ],
+    "name": "LaGuardia Airport",
+    "city": "Flushing",
+    "state": "New York",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "82",
+    "traffic": 32.800000000000004
+  },
+  {
+    "cleanliness": 99.02085811193648,
+    "taxi": [
+      "Brave Wheel",
+      "Precious Cargo Taxi"
+    ],
+    "food": [
+      "Garoto",
+      "Manner",
+      "Chaoda Modern Agriculture"
+    ],
+    "recommendations": [
+      "Small-Group Guided Sloth Seeing Tour in La Fortuna",
+      "Viator Exclusive: Early-Access Food Tour of Pike Place Market"
+    ],
+    "name": "Bierset Airport",
+    "city": "Velroux",
+    "state": "Liege",
+    "country": "Belgium",
+    "url": "",
+    "Airlines-No": "99",
+    "traffic": 39.6
+  },
+  {
+    "cleanliness": 93.77824333291689,
+    "taxi": [
+      "Wheel Box",
+      "Transportation Solutions",
+      "Jamie’s Transport Service"
+    ],
+    "food": [
+      "Dick Smith Foods",
+      "Yurun Group"
+    ],
+    "recommendations": [
+      "Small-Group Guided Sloth Seeing Tour in La Fortuna",
+      "Segway Tour of Old Town Scottsdale"
+    ],
+    "name": "London Gatwick Airport",
+    "city": "Horley",
+    "state": "England",
+    "country": "United Kingdom",
+    "url": "http://www.gatwickairport.com/",
+    "Airlines-No": "227",
+    "traffic": 90.8
+  },
+  {
+    "cleanliness": 93.59819641005276,
+    "taxi": [
+      "The Taxi Company",
+      "Ezy Cab",
+      "Easy Shuttle"
+    ],
+    "food": [
+      "Amoy Food",
+      "Sustagen"
+    ],
+    "recommendations": [
+      "Mississippi Avenue Food Tour",
+      "White Water River Rafting Class II-III from La Fortuna-Arenal"
+    ],
+    "name": "London Heathrow Airport",
+    "city": "Hounslow",
+    "state": "England",
+    "country": "United Kingdom",
+    "url": "http://www.heathrowairport.com",
+    "Airlines-No": "227",
+    "traffic": 90.8
+  },
+  {
+    "cleanliness": 89.79367935227415,
+    "taxi": [
+      "Mercury Cab",
+      "Swoop",
+      "Epic Taxi",
+      "JustCruze",
+      "West bay Cab"
+    ],
+    "food": [
+      "Vigor S.A.",
+      "Three Threes Condiments",
+      "Sofia Mel",
+      "JBS S.A.",
+      "Amoy Food"
+    ],
+    "recommendations": [
+      "Diamondback Gulch by Off-Road Jeep from Sedona",
+      "Kaituna White-Water Rafting Adventure"
+    ],
+    "name": "Lisbon Airport",
+    "city": "Lisbon",
+    "state": "Lisbon",
+    "country": "Portugal",
+    "url": "http://www.ana.pt",
+    "Airlines-No": "92",
+    "traffic": 36.8
+  },
+  {
+    "cleanliness": 88.36544617244243,
+    "taxi": [
+      "Five Fun Taxi",
+      "Friendly Taxi",
+      "American Shuttle",
+      "NYC Taxi",
+      "Perfect Taxi"
+    ],
+    "food": [
+      "Kee Wah Bakery",
+      "Preshafood",
+      "Julius Meinl"
+    ],
+    "recommendations": [
+      " 5-Day Orkney Islands Tour from Edinburgh Including the Scottish Highlands",
+      "Kauai Deluxe Sightseeing Flight"
+    ],
+    "name": "London Luton Airport",
+    "city": "Luton",
+    "state": "England",
+    "country": "United Kingdom",
+    "url": "http://www.london-luton.co.uk/",
+    "Airlines-No": "78",
+    "traffic": 31.2
+  },
+  {
+    "cleanliness": 93.75105379821485,
+    "taxi": [
+      "Broad Dyckman Car Services",
+      "Play Coach",
+      "Ray Taxi",
+      "Fussion Fast"
+    ],
+    "food": [
+      "Chaoda Modern Agriculture",
+      "Beerenberg Farm",
+      "Wendy's Supa Sundaes",
+      "Bega Cheese",
+      "Sobeys"
+    ],
+    "recommendations": [
+      "Ayers Rock (Uluru) Sunrise and Segway"
+    ],
+    "name": "Luxembourg Airport",
+    "city": "Sandweiler",
+    "state": "Luxemburg",
+    "country": "Luxembourg",
+    "url": "http://www.luxair.lu",
+    "Airlines-No": "119",
+    "traffic": 47.599999999999994
+  },
+  {
+    "cleanliness": 97.44910428825317,
+    "taxi": [
+      "Bottom Cab",
+      "Too Much Cab",
+      "Bliss Taxi",
+      "Radiant Cab"
+    ],
+    "food": [
+      "La Rose Noire",
+      "BRF S.A.",
+      "Fufeng Group",
+      "Wendy's Supa Sundaes",
+      "Rogers Sugar",
+      "Tassal",
+      "Saputo",
+      "Murray Goulburn Co-operative",
+      "Haigh's Chocolates"
+    ],
+    "recommendations": [
+      "Small Group Kayak and Snorkel Eco Tour",
+      "Koloa Zipline"
+    ],
+    "name": "Lyon Airport",
+    "city": "Colombier",
+    "state": "Rhone-Alpes",
+    "country": "France",
+    "url": "http://www.lyon.aeroport.fr",
+    "Airlines-No": "89",
+    "traffic": 35.6
+  },
+  {
+    "cleanliness": 94.30662185605367,
+    "taxi": [
+      "Violet Taxi",
+      "Precious Cargo Taxi",
+      "LA Taxi",
+      "First Hug"
+    ],
+    "food": [
+      "Rogers Sugar",
+      "Bulla Dairy Foods",
+      "Marfrig",
+      "Retail Food Group",
+      "Bundaberg Brewed Drinks"
+    ],
+    "recommendations": [
+      "Rotorua Forest Zip Line Canopy Adventure",
+      "Queenstown Nevis Highwire Bungy Jump"
+    ],
+    "name": "Barajas Airport",
+    "city": "Madrid",
+    "state": "Madrid",
+    "country": "Spain",
+    "url": "",
+    "Airlines-No": "186",
+    "traffic": 74.4
+  },
+  {
+    "cleanliness": 91.87864114010611,
+    "taxi": [
+      "West bay Cab",
+      "Bliss Taxi"
+    ],
+    "food": [
+      "Canyon Creek Food Company",
+      "Just Us!",
+      "Inghams Enterprises",
+      "Sofia Mel",
+      "Neuhaus",
+      "Norco Co-operative",
+      "Ferguson Plarre Bakehouses",
+      "Metro Inc."
+    ],
+    "recommendations": [
+      "Diamondback Gulch by Off-Road Jeep from Sedona",
+      "Maui Parasailing Experience"
+    ],
+    "name": "Manchester International Airport",
+    "city": "Manchester",
+    "state": "England",
+    "country": "United Kingdom",
+    "url": "http://www.manchesterairport.co.uk",
+    "Airlines-No": "129",
+    "traffic": 51.6
+  },
+  {
+    "cleanliness": 92.21246644993612,
+    "taxi": [
+      "Radio Cab",
+      "West bay Cab"
+    ],
+    "food": [
+      "Amoy Food",
+      "Murray Goulburn Co-operative",
+      "Global Sweeteners",
+      "Nuttelex",
+      "Bakers Delight",
+      "Nomad Foods",
+      "George Weston Limited",
+      "Castaño",
+      "Sobeys",
+      "Shuanghui"
+    ],
+    "recommendations": [
+      " 5-Day Orkney Islands Tour from Edinburgh Including the Scottish Highlands",
+      "Aurora Borealis Private Night Tour from Tromso"
+    ],
+    "name": "Orlando International Airport",
+    "city": "Orlando",
+    "state": "Florida",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "106",
+    "traffic": 42.4
+  },
+  {
+    "cleanliness": 90.82390752320664,
+    "taxi": [
+      "The Arrow",
+      "Scoop U Up",
+      "Taxi Associates",
+      "Groove Cab",
+      "Easy Shuttle"
+    ],
+    "food": [
+      "Bothwell Cheese",
+      "Maypole Dairy Products",
+      "Convenience Retail Asia",
+      "Neuhaus",
+      "Chapman's",
+      "Premium Brands Holdings Corporation",
+      "Baiada Poultry",
+      "Cott",
+      "Kee Wah Bakery",
+      "Dairy Farm International Holdings",
+      "So Natural"
+    ],
+    "recommendations": [
+      "Mogollon Rim Off-Road Tour",
+      "Anchorage Craft Brewery Tour and Tastings"
+    ],
+    "name": "Memphis International Airport",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "96",
+    "traffic": 38.4
+  },
+  {
+    "cleanliness": 93.8138276507675,
+    "taxi": [
+      "Urban Time",
+      "NYC Taxi",
+      "Sandy Cab",
+      "Taxi & Towncar",
+      "Way Gear",
+      "Uber"
+    ],
+    "food": [
+      "Anheuser-Busch InBev",
+      "Purity Factories",
+      "Dick Smith Foods",
+      "Confiserie Roodthooft"
+    ],
+    "recommendations": [
+      "Viator Exclusive: Early-Access Food Tour of Pike Place Market",
+      "Santorini First Impressions Private Tour"
+    ],
+    "name": "Lic Benito Juarez International Airport",
+    "city": "Mexico City",
+    "state": "Distrito Federal",
+    "country": "Mexico",
+    "url": "http://www.aicm.com.mx/",
+    "Airlines-No": "98",
+    "traffic": 39.2
+  },
+  {
+    "cleanliness": 89.78393705320609,
+    "taxi": [
+      "DeSoto Cab Co.",
+      "Social Zap",
+      "JustCruze"
+    ],
+    "food": [
+      "Vanparys",
+      "Bakers Delight",
+      "Lester's Foods Ltd.",
+      "Manner",
+      "Yili Group",
+      "Warrnambool Cheese and Butter",
+      "Rauch"
+    ],
+    "recommendations": [
+      "Santorini First Impressions Private Tour",
+      "Norwegian Fjords Tour Including Professional Photos in Tromso"
+    ],
+    "name": "Miami International Airport",
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "url": "http://www.miami-airport.com",
+    "Airlines-No": "167",
+    "traffic": 66.8
+  },
+  {
+    "cleanliness": 99.52156701371345,
+    "taxi": [
+      "Cool Cabs",
+      "Two Happy",
+      "Trusted Taxi Co."
+    ],
+    "food": [
+      "Pez",
+      "Haigh's Chocolates",
+      "Viro",
+      "McCain Foods",
+      "Camperdown Dairy International",
+      "Vanparys",
+      "Nomad Foods",
+      "Purity Factories"
+    ],
+    "recommendations": [
+      "Kennedy Space Center at Cape Canaveral",
+      "Charleston’s Alleys and Hidden Passages"
+    ],
+    "name": "Ninoy Aquino International Airport",
+    "city": "Parañaque",
+    "state": "National Capital Region",
+    "country": "Philippines",
+    "url": "",
+    "Airlines-No": "77",
+    "traffic": 30.8
+  },
+  {
+    "cleanliness": 91.08866640914495,
+    "taxi": [
+      "Play Coach",
+      "DeSoto Cab Co.",
+      "White Cab",
+      "Ezy Cab",
+      "Sandy Cab"
+    ],
+    "food": [
+      "Darrell Lea",
+      "Viro",
+      "Vitta Foods",
+      "Maypole Dairy Products",
+      "Bundaberg Brewed Drinks",
+      "Brauerei Ottakringer"
+    ],
+    "recommendations": [
+      "Tutukau Gorge Jet Boat Ride and The Squeeze",
+      "Half-Day Kayak to the Maori Carvings from Taupo"
+    ],
+    "name": "Marignane Airport",
+    "city": "Marignane",
+    "state": "Provence-alpes-cote d'Azur",
+    "country": "France",
+    "url": "",
+    "Airlines-No": "81",
+    "traffic": 32.4
+  },
+  {
+    "cleanliness": 94.90430952385495,
+    "taxi": [
+      "United Taxi",
+      "7 Days Taxi",
+      "First Hug",
+      "Crew cab",
+      "Groove Cab"
+    ],
+    "food": [
+      "Ting Hsin International Group",
+      "Mike's Hard Lemonade Co.",
+      "Kweichow Moutai Company",
+      "Tien Chun Ve-Tsin",
+      "Naya Waters",
+      "Julius Meinl",
+      "Canyon Creek Food Company",
+      "Jim Pattison Group",
+      "Red Bull GmbH"
+    ],
+    "recommendations": [
+      "1916 Rebellion Walking Tour",
+      "White Water River Rafting Class II-III from La Fortuna-Arenal"
+    ],
+    "name": "Minneapolis St Paul International Airport",
+    "city": "St. Paul",
+    "state": "Minnesota",
+    "country": "United States",
+    "url": "http://mspairport.com",
+    "Airlines-No": "171",
+    "traffic": 68.4
+  },
+  {
+    "cleanliness": 89.07546242521833,
+    "taxi": [
+      "The Arrow",
+      "Swoop",
+      "Tessor Cab",
+      "Red Thunder Taxi",
+      "Reliable Cab Service"
+    ],
+    "food": [
+      "Baiada Poultry",
+      "Gay Lea",
+      "Tassal",
+      "Lassonde Industries"
+    ],
+    "recommendations": [
+      "3-Hour Arizona Desert Guided Tour by Teryx UTV",
+      "Orlando Sunrise Hot-Air Balloon Ride"
+    ],
+    "name": "Franz-Josef-Strauss Airport",
+    "city": "Oberding",
+    "state": "Bavaria",
+    "country": "Germany",
+    "url": "http://www.munich-airport.de/",
+    "Airlines-No": "213",
+    "traffic": 85.2
+  },
+  {
+    "cleanliness": 99.79358490214561,
+    "taxi": [
+      "Altus Car Service",
+      "California Cab Company",
+      "Travel Planet",
+      "Jerby Spot Cab",
+      "Cascade Taxi Company",
+      "Radiant Cab"
+    ],
+    "food": [
+      "Agropur",
+      "Dare Foods",
+      "Saputo",
+      "La Rose Noire",
+      "Vinagro",
+      "Dan-D Foods",
+      "Lester's Foods Ltd.",
+      "Mike's Hard Lemonade Co.",
+      "Kawartha Dairy Company"
+    ],
+    "recommendations": [
+      "Kaituna White-Water Rafting Adventure",
+      "St.Petersburg Private Tour of The Hermitage Museum"
+    ],
+    "name": "Malpensa International Airport",
+    "city": "Cardano al Campo",
+    "state": "Lombardy",
+    "country": "Italy",
+    "url": "http://www.sea-aeroportimilano.it/",
+    "Airlines-No": "163",
+    "traffic": 65.2
+  },
+  {
+    "cleanliness": 89.20204925020437,
+    "taxi": [
+      "The Arrow",
+      "Violet Taxi",
+      "Crew cab"
+    ],
+    "food": [
+      "Isis Central Sugar Mill",
+      "Baiada Poultry",
+      "So Natural"
+    ],
+    "recommendations": [
+      "Oregon Coast Tour from Portland",
+      "Half-Day History and Ecology Trek at the Makauwahi Cave Reserve"
+    ],
+    "name": "Nice-Cote d'Azur Airport",
+    "city": "Nice",
+    "state": "Provence-alpes-cote d'Azur",
+    "country": "France",
+    "url": "",
+    "Airlines-No": "97",
+    "traffic": 38.800000000000004
+  },
+  {
+    "cleanliness": 89.03382901751148,
+    "taxi": [
+      "OTS- On The Spot",
+      "First Cab",
+      "Broadway Cab",
+      "United Taxi",
+      "Mercury Cab"
+    ],
+    "food": [
+      "Lassonde Industries",
+      "Canberra Milk",
+      "Huon Aquaculture",
+      "La Rose Noire",
+      "Ting Hsin International Group",
+      "Nature's Path",
+      "San Remo Macaroni Company",
+      "International Meal Company"
+    ],
+    "recommendations": [
+      "Half-Day Kayak to the Maori Carvings from Taupo",
+      "Mississippi Avenue Food Tour"
+    ],
+    "name": "Narita International Airport",
+    "city": "Narita-shi",
+    "state": "Chiba Prefecture",
+    "country": "Japan",
+    "url": "http://www.narita-airport.jp",
+    "Airlines-No": "97",
+    "traffic": 38.800000000000004
+  },
+  {
+    "cleanliness": 96.9509160484665,
+    "taxi": [
+      "Ezy Cab",
+      "Pink Taxis",
+      "QuickCab",
+      "Scoop U Up",
+      "Violet Taxi",
+      "The Moulton Shuttle"
+    ],
+    "food": [
+      "La Rose Noire",
+      "Purity Factories"
+    ],
+    "recommendations": [
+      "Small-Group Guided Sloth Seeing Tour in La Fortuna",
+      "Santorini Wine Roads Tour with Wine Tastings"
+    ],
+    "name": "Chicago O'Hare International Airport",
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "United States",
+    "url": "http://www.flychicago.com/ohare/home.asp",
+    "Airlines-No": "222",
+    "traffic": 88.8
+  },
+  {
+    "cleanliness": 92.0042957732072,
+    "taxi": [
+      "Way Gear",
+      "Early Wish",
+      "Reliable Cab Service",
+      "Independent Taxi",
+      "Groove Cab",
+      "Paradise Sim"
+    ],
+    "food": [
+      "Lion Dairy & Drinks",
+      "Dick Smith Foods",
+      "Laura Secord Chocolates",
+      "Bellamy's",
+      "Wendy's Supa Sundaes",
+      "Sanitarium"
+    ],
+    "recommendations": [
+      "3-Hour Madeira Scenic Island Tour by Motorcycle Sidecar",
+      "Orlando Sunrise Hot-Air Balloon Ride"
+    ],
+    "name": "Paris Orly Airport",
+    "city": "Paris",
+    "state": "Ile-de-France",
+    "country": "France",
+    "url": "http://www.adp.fr",
+    "Airlines-No": "138",
+    "traffic": 55.2
+  },
+  {
+    "cleanliness": 91.3132089498467,
+    "taxi": [
+      "OTS- On The Spot",
+      "Prestige Taxi",
+      "Early Wish"
+    ],
+    "food": [
+      "Castaño",
+      "Rogers Sugar"
+    ],
+    "recommendations": [
+      "Santorini First Impressions Private Tour",
+      "Viator Exclusive: Early-Access Food Tour of Pike Place Market"
+    ],
+    "name": "Oslo Gardermoen Airport",
+    "city": "Gardermoen",
+    "state": "Akershus Fylke",
+    "country": "Norway",
+    "url": "http://www.osl.no",
+    "Airlines-No": "116",
+    "traffic": 46.400000000000006
+  },
+  {
+    "cleanliness": 95.15413443943135,
+    "taxi": [
+      "Uber",
+      "American Shuttle",
+      "Speedbolt"
+    ],
+    "food": [
+      "Purity Factories",
+      "Just Us!",
+      "Bahra Biscuit Factory",
+      "Leonidas",
+      "SunOpta",
+      "Soprole"
+    ],
+    "recommendations": [
+      "Mississippi Avenue Food Tour",
+      "Whale Watching RIB Boat Tour from Husavik"
+    ],
+    "name": "Beijing Capital Airport",
+    "city": "Shunyi",
+    "state": "Beijing",
+    "country": "China",
+    "url": "http://www.bcia.com.cn",
+    "Airlines-No": "165",
+    "traffic": 66
+  },
+  {
+    "cleanliness": 90.36435224612399,
+    "taxi": [
+      "Speedbolt",
+      "Groove Cab",
+      "Altus Car Service",
+      "Crew cab",
+      "Violet Taxi",
+      "Swoop"
+    ],
+    "food": [
+      "SunOpta",
+      "Laura Secord Chocolates",
+      "Meurens",
+      "Canyon Creek Food Company",
+      "Tien Chun Ve-Tsin",
+      "Maypole Dairy Products",
+      "Baskin-Robbins",
+      "Rogers Sugar",
+      "Bakers Delight",
+      "Ernest Hillier Chocolates"
+    ],
+    "recommendations": [
+      "Small-Group Guided Sloth Seeing Tour in La Fortuna",
+      "Shore Excursion: 2-Day St. Petersburg City Explorer including Faberge Museum Visit"
+    ],
+    "name": "Philadelphia International Airport",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "url": "http://www.phl.org",
+    "Airlines-No": "133",
+    "traffic": 53.2
+  },
+  {
+    "cleanliness": 97.73005537373325,
+    "taxi": [
+      "Orange",
+      "OttoMattic",
+      "Radio Cab",
+      "Fusion Taxi"
+    ],
+    "food": [
+      "Kee Wah Bakery",
+      "Yili Group",
+      "Boost Juice",
+      "Duc d'O"
+    ],
+    "recommendations": [
+      "Ocean Kayak Tours",
+      "Twilight Wine and Craft Beer Tour"
+    ],
+    "name": "Sky Harbor International Airport",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "country": "United States",
+    "url": "http://phoenix.gov/Ahttp://phoenix.gov/aviation",
+    "Airlines-No": "108",
+    "traffic": 43.2
+  },
+  {
+    "cleanliness": 95.83115758165965,
+    "taxi": [
+      "Sandy Cab",
+      "Friendly Taxi",
+      "Fusion Taxi",
+      "Sure Path"
+    ],
+    "food": [
+      "Yili Group",
+      "Sobeys",
+      "The a2 Milk Company",
+      "Lion Dairy & Drinks",
+      "Bakers Delight",
+      "Naya Waters",
+      "Bundaberg Brewed Drinks",
+      "Confiserie Roodthooft",
+      "Ernest Hillier Chocolates",
+      "Lassonde Industries",
+      "Leonidas"
+    ],
+    "recommendations": [
+      "Half-Day Hanoi Food Tour",
+      "Zip Line Tour at Out of Africa Wildlife Park in Camp Verde"
+    ],
+    "name": "Palma de Mallorca Airport",
+    "city": "Palma",
+    "state": "Balearic Islands",
+    "country": "Spain",
+    "url": "",
+    "Airlines-No": "109",
+    "traffic": 43.6
+  },
+  {
+    "cleanliness": 89.34212295342107,
+    "taxi": [
+      "Quest Cab",
+      "Scoop U Up"
+    ],
+    "food": [
+      "Gay Lea",
+      "The a2 Milk Company",
+      "Anheuser-Busch InBev",
+      "San Remo Macaroni Company"
+    ],
+    "recommendations": [
+      "Parasailing in Key West",
+      "Sunset Hot Air Balloon Ride over Phoenix"
+    ],
+    "name": "Prague Ruzyne Airport",
+    "city": "Prague 6",
+    "state": "Hlavni mesto Praha",
+    "country": "Czech Republic",
+    "url": "http://www.prg.aero",
+    "Airlines-No": "131",
+    "traffic": 52.400000000000006
+  },
+  {
+    "cleanliness": 91.05361938551583,
+    "taxi": [
+      "Plex",
+      "Spirit Swift",
+      "OttoMattic",
+      "SunShine Transportation"
+    ],
+    "food": [
+      "Compañía de las Cervecerías Unidas",
+      "Glacio",
+      "Murray Goulburn Co-operative"
+    ],
+    "recommendations": [
+      "Ocean Kayak Tours",
+      "Howth Peninsula Hiking Tour"
+    ],
+    "name": "Pudong International Airport",
+    "city": "Huinan",
+    "state": "Shanghai",
+    "country": "China",
+    "url": "",
+    "Airlines-No": "131",
+    "traffic": 52.400000000000006
+  },
+  {
+    "cleanliness": 95.20418819526617,
+    "taxi": [
+      "ABC Cab Company",
+      "7 Days Taxi",
+      "Plex",
+      "First Cab"
+    ],
+    "food": [
+      "Just Us!",
+      "Nature's Path",
+      "BRF S.A.",
+      "Thomas Foods International",
+      "Red Bull GmbH",
+      "Ting Hsin International Group"
+    ],
+    "recommendations": [
+      "Santorini Wine Roads Tour with Wine Tastings",
+      "Ayers Rock (Uluru) Sunrise and Segway"
+    ],
+    "name": "Riga Airport",
+    "city": "Marupe",
+    "state": "Rigas Rajons",
+    "country": "Latvia",
+    "url": "http://www.riga-airport.com",
+    "Airlines-No": "76",
+    "traffic": 30.4
+  },
+  {
+    "cleanliness": 97.76614100998673,
+    "taxi": [
+      "Precious Cargo Taxi",
+      "United Taxi",
+      "Fussion Fast",
+      "Swoop",
+      "Easy Shuttle"
+    ],
+    "food": [
+      "Compañía de las Cervecerías Unidas",
+      "Jules Destrooper",
+      "Nomad Foods",
+      "Lester's Foods Ltd.",
+      "Glacio",
+      "Le Pain Quotidien",
+      "Retail Food Group"
+    ],
+    "recommendations": [
+      " Ocean Kayak Tours",
+      "Makena Turtle Town Eco Adventure in Maui"
+    ],
+    "name": "Tacoma International Airport",
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "url": "http://www.portseattle.org/seatac/",
+    "Airlines-No": "109",
+    "traffic": 43.6
+  },
+  {
+    "cleanliness": 91.67638974338776,
+    "taxi": [
+      "Terby",
+      "Reliable Cab Service"
+    ],
+    "food": [
+      "Earth's Own Food Company",
+      "Jules Destrooper",
+      "Huon Aquaculture",
+      "Zvečevo",
+      "Retail Food Group",
+      "Cavalier Chocolate",
+      "Bulla Dairy Foods",
+      "Kawartha Dairy Company"
+    ],
+    "recommendations": [
+      "1916 Rebellion Walking Tour",
+      "Diamondback Gulch by Off-Road Jeep from Sedona"
+    ],
+    "name": "San Francisco International Airport",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "url": "http://www.flysfo.com",
+    "Airlines-No": "147",
+    "traffic": 58.8
+  },
+  {
+    "cleanliness": 90.17615785148095,
+    "taxi": [
+      "Play Coach",
+      "Reliable Cab Service",
+      "Radiant Cab",
+      "Bottom Cab",
+      "Odessy",
+      "Jamie’s Transport Service"
+    ],
+    "food": [
+      "Cavalier Chocolate",
+      "Schweppes",
+      "Yili Group",
+      "John Martin Brewery"
+    ],
+    "recommendations": [
+      "Kauai Deluxe Sightseeing Flight",
+      "Anchorage Craft Brewery Tour and Tastings"
+    ],
+    "name": "Singapore Changi Airport",
+    "city": "Singapore",
+    "state": "South East",
+    "country": "Singapore",
+    "url": "http://www.changiairport.com.sg/",
+    "Airlines-No": "108",
+    "traffic": 43.2
+  },
+  {
+    "cleanliness": 96.35467861591601,
+    "taxi": [
+      "Easy Cabs",
+      "Easy Shuttle",
+      "Lugosi Cab",
+      "West bay Cab"
+    ],
+    "food": [
+      "Purdy's Chocolates",
+      "Vinagro",
+      "Frosty Boy",
+      "Darrell Lea",
+      "Kweichow Moutai Company",
+      "COFCO Group",
+      "Brauerei Ottakringer",
+      "Recipe Unlimited"
+    ],
+    "recommendations": [
+      "Parasailing in Key West",
+      "Santorini First Impressions Private Tour"
+    ],
+    "name": "Salt Lake City International Airport",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "104",
+    "traffic": 41.6
+  },
+  {
+    "cleanliness": 89.49725076666743,
+    "taxi": [
+      "Spirit Swift",
+      "Cool Cabs",
+      "ABC Cab Company"
+    ],
+    "food": [
+      "George Weston Limited",
+      "Patties Foods"
+    ],
+    "recommendations": [
+      "Howth Peninsula Hiking Tour",
+      "White Water Rafting Day Trip from Hafgrímsstaðir: Grade 4 Rafting on the East Glacial River"
+    ],
+    "name": "Lambert St Louis International Airport",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "country": "United States",
+    "url": "",
+    "Airlines-No": "78",
+    "traffic": 31.2
+  },
+  {
+    "cleanliness": 99.35125480954514,
+    "taxi": [
+      "Taxi Associates",
+      "DeSoto Cab Co.",
+      "Prestige Taxi",
+      "ABC Cab Company",
+      "California Cab Company",
+      "Too Much Cab"
+    ],
+    "food": [
+      "Three Threes Condiments",
+      "Kee Wah Bakery",
+      "Wesfarmers",
+      "Castaño",
+      "Cavalier Chocolate",
+      "Bega Cheese",
+      "Tien Chun Ve-Tsin",
+      "Soprole",
+      "Global Sweeteners",
+      "Just Us!",
+      "Huon Aquaculture"
+    ],
+    "recommendations": [
+      "Diamondback Gulch by Off-Road Jeep from Sedona",
+      "Auckland Insider Tour: Food Tour with Local Expert"
+    ],
+    "name": "London Stansted International Airport",
+    "city": "Stansted Mountfitchet",
+    "state": "England",
+    "country": "United Kingdom",
+    "url": "http://www.stanstedairport.com/",
+    "Airlines-No": "168",
+    "traffic": 67.2
+  },
+  {
+    "cleanliness": 97.59210819935026,
+    "taxi": [
+      "OTS- On The Spot",
+      "Uber",
+      "Altus Car Service"
+    ],
+    "food": [
+      "Vinagro",
+      "Just Us!",
+      "M&M Food Market",
+      "Voortman Cookies",
+      "Bright Food",
+      "Vigor S.A."
+    ],
+    "recommendations": [
+      "Oregon Coast Tour from Portland",
+      "Howth Peninsula Hiking Tour"
+    ],
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "url": "",
+    "Airlines-No": "116",
+    "traffic": 46.400000000000006
+  },
+  {
+    "cleanliness": 99.19665356942002,
+    "taxi": [
+      "Scoop U Up",
+      "West bay Cab",
+      "Travel Planet",
+      "Cool Cabs"
+    ],
+    "food": [
+      "La Rose Noire",
+      "Kee Wah Bakery"
+    ],
+    "recommendations": [
+      "Twilight Wine and Craft Beer Tour",
+      "Mogollon Rim Off-Road Tour"
+    ],
+    "name": "Sheremtyevo Airport",
+    "city": "Zelenograd",
+    "state": "Moskovskaya Oblast",
+    "country": "Russia",
+    "url": "http://www.sheremetyevo-airport.ru",
+    "Airlines-No": "140",
+    "traffic": 56.00000000000001
+  },
+  {
+    "cleanliness": 88.91083952859941,
+    "taxi": [
+      "The Brown Eagle",
+      "NYC Taxi",
+      "Tessor Cab"
+    ],
+    "food": [
+      "International Meal Company",
+      "Marfrig",
+      "Chapman's",
+      "Chaoda Modern Agriculture",
+      "Shuanghui",
+      "Beerenberg Farm",
+      "Warrnambool Cheese and Butter",
+      "Schweppes",
+      "IANSA",
+      "Cavalier Chocolate",
+      "Daiya"
+    ],
+    "recommendations": [
+      "Zip Line Tour at Out of Africa Wildlife Park in Camp Verde",
+      "Parasailing in Key West"
+    ],
+    "name": "Berlin-Schonefeld International Airport",
+    "city": "Schönefeld",
+    "state": "Bundesland Brandenburg",
+    "country": "Germany",
+    "url": "",
+    "Airlines-No": "85",
+    "traffic": 34
+  },
+  {
+    "cleanliness": 91.51061417497957,
+    "taxi": [
+      "The Moulton Shuttle",
+      "Brave Wheel",
+      "Precious Cargo Taxi"
+    ],
+    "food": [
+      "Bothwell Cheese",
+      "Maple Leaf Foods",
+      "Sobeys",
+      "Dick Smith Foods",
+      "Jules Destrooper",
+      "Preshafood",
+      "Hangzhou Wahaha Group"
+    ],
+    "recommendations": [
+      "Koloa Zipline",
+      "Sunset Sail in Key West with Cocktails and Hors D’oeuvres"
+    ],
+    "name": "Kingsford Smith Airport",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "country": "Australia",
+    "url": "",
+    "Airlines-No": "84",
+    "traffic": 33.6
+  },
+  {
+    "cleanliness": 88.83226687181867,
+    "taxi": [
+      "Tour Nest",
+      "Emerald City Taxi",
+      "Easy Cabs",
+      "Union Cab"
+    ],
+    "food": [
+      "Dick Smith Foods",
+      "Recipe Unlimited",
+      "John Martin Brewery",
+      "Kweichow Moutai Company",
+      "Shuanghui",
+      "Darrell Lea",
+      "La Rose Noire",
+      "Tien Chun Ve-Tsin",
+      "Rogers Sugar"
+    ],
+    "recommendations": [
+      "Koloa Zipline",
+      "Full-Day Mekong Delta Bike Tour from Ho Chi Minh City"
+    ],
+    "name": "Shenzhen Airport",
+    "city": "Shenzhen",
+    "state": "Guangdong",
+    "country": "China",
+    "url": "http://www.szairport.com/index_e.asp",
+    "Airlines-No": "81",
+    "traffic": 32.4
+  },
+  {
+    "cleanliness": 96.7476105845318,
+    "taxi": [
+      "California Cab Company",
+      "United Taxi"
+    ],
+    "food": [
+      "Retail Food Group",
+      "Première Moisson",
+      "Do & Co"
+    ],
+    "recommendations": [
+      "Secrets of Sintra and Cascais Private Tour",
+      " Tandem Parasail Flight over the Bay of Islands"
+    ],
+    "name": "Sur-Reina Sofia Airport",
+    "city": "Granadilla",
+    "state": "Canary Islands",
+    "country": "Spain",
+    "url": "http://www.aena.es",
+    "Airlines-No": "76",
+    "traffic": 30.4
+  },
+  {
+    "cleanliness": 96.53851844869419,
+    "taxi": [
+      "Spirit Swift",
+      "Miami Taxi",
+      "Jerby Spot Cab",
+      "DeSoto Cab Co.",
+      "Broad Dyckman Car Services"
+    ],
+    "food": [
+      "Ysco",
+      "Nomad Foods",
+      "Jules Destrooper",
+      "Wesfarmers",
+      "Kweichow Moutai Company",
+      "Nature's Path",
+      "Balfours",
+      "San Remo Macaroni Company",
+      "Dairy Farm International Holdings",
+      "Retail Food Group"
+    ],
+    "recommendations": [
+      "Kauai Deluxe Sightseeing Flight",
+      "Private Monteverde Cloud Forest Walk"
+    ],
+    "name": "Ben Gurion Airport",
+    "city": "Petaẖ Tiqwa",
+    "state": "HaMerkaz",
+    "country": "Israel",
+    "url": "http://www.iaa.gov.il/Rashat/en-US/Airports/BenGurion",
+    "Airlines-No": "87",
+    "traffic": 34.8
+  },
+  {
+    "cleanliness": 91.69940575919136,
+    "taxi": [
+      "Miami Taxi",
+      "Epic Taxi",
+      "Easy Cabs",
+      "SunShine Transportation",
+      "Precious Cargo Taxi",
+      "Terby"
+    ],
+    "food": [
+      "Lion Dairy & Drinks",
+      "Bright Food",
+      "Premium Brands Holdings Corporation",
+      "Compañía de las Cervecerías Unidas",
+      "Patties Foods",
+      "Sobeys",
+      "Daiya",
+      "Sofia Mel"
+    ],
+    "recommendations": [
+      "Evening Hoi An Food Tour by Bike",
+      "Manatee Kayak Tour at Blue Springs State Park"
+    ],
+    "name": "Berlin-Tegel International Airport",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "Germany",
+    "url": "http://www.berlin-airport.de/PubEnglish/PubTegel/index.php?",
+    "Airlines-No": "101",
+    "traffic": 40.400000000000006
+  },
+  {
+    "cleanliness": 98.67576589986822,
+    "taxi": [
+      "Uber",
+      "White Cab",
+      "JustCruze"
+    ],
+    "food": [
+      "Zoo Holdings Group",
+      "Nature's Path",
+      "Dachan Food",
+      "Zvečevo",
+      "Organic Meadow Cooperative",
+      "Do & Co",
+      "Copacol",
+      "Garoto",
+      "Chaoda Modern Agriculture",
+      "Bundaberg Brewed Drinks",
+      "Jules Destrooper"
+    ],
+    "recommendations": [
+      "Snoqualmie Falls and Seattle City Tour",
+      "Viator Exclusive: Early-Access Food Tour of Pike Place Market"
+    ],
+    "name": "Vienna Schwechat International Airport",
+    "city": "Klein-Neusiedl",
+    "state": "Lower Austria",
+    "country": "Austria",
+    "url": "http://www.viennaairport.com",
+    "Airlines-No": "183",
+    "traffic": 73.2
+  },
+  {
+    "cleanliness": 88.65518283330098,
+    "taxi": [
+      "Early Wish",
+      "Crew cab",
+      "Dexter",
+      "OttoMattic"
+    ],
+    "food": [
+      "Baiada Poultry",
+      "Chapman's",
+      "Camperdown Dairy International",
+      "Bundaberg Brewed Drinks",
+      "Kweichow Moutai Company",
+      "Thomas Foods International",
+      "Viro",
+      "Nature's Path",
+      "Murray Goulburn Co-operative",
+      "Bulla Dairy Foods",
+      "Yili Group"
+    ],
+    "recommendations": [
+      "3-Hour Madeira Scenic Island Tour by Motorcycle Sidecar",
+      "Shore Excursion: Three Day Highlights Tour"
+    ],
+    "name": "Ynukovo Airport",
+    "city": "Podol'sk",
+    "state": "Moskovskaya Oblast",
+    "country": "Russia",
+    "url": "",
+    "Airlines-No": "79",
+    "traffic": 31.6
+  },
+  {
+    "cleanliness": 97.41488205316531,
+    "taxi": [
+      "Miami Taxi",
+      "QuickCab",
+      "Broad Dyckman Car Services",
+      "Orange",
+      "Speedbolt"
+    ],
+    "food": [
+      "Shuanghui",
+      "Agropur",
+      "Patties Foods",
+      "Garoto",
+      "Want Want",
+      "Bright Food",
+      "Restaurant Brands International",
+      "Olymel"
+    ],
+    "recommendations": [
+      "Snoqualmie Falls and Seattle City Tour",
+      "Charleston City Sightseeing Tour via Bus"
+    ],
+    "name": "Okecie International Airport",
+    "city": "Warsaw",
+    "state": "Mazowieckie",
+    "country": "Poland",
+    "url": "http://www.lotnisko-chopina.pl/",
+    "Airlines-No": "102",
+    "traffic": 40.8
+  },
+  {
+    "cleanliness": 96.8630183938918,
+    "taxi": [
+      "Social Zap",
+      "White Cab",
+      "Ray Taxi",
+      "Way Gear",
+      "Too Much Cab"
+    ],
+    "food": [
+      "Tassal",
+      "BRF S.A.",
+      "Uni-President Enterprises Corporation",
+      "Want Want",
+      "Camperdown Dairy International",
+      "Chaoda Modern Agriculture",
+      "Olymel",
+      "Le Pain Quotidien",
+      "Grupo Petrópolis"
+    ],
+    "recommendations": [
+      "Kauai Deluxe Sightseeing Flight",
+      "South Shore Private Sightseeing Cruise in Puerto Vallarta"
+    ],
+    "name": "Aéroport International Pierre-Elliott-Trudeau d",
+    "city": "Dorval",
+    "state": "Quebec",
+    "country": "Canada",
+    "url": "http://www.admtl.com",
+    "Airlines-No": "104",
+    "traffic": 41.6
+  },
+  {
+    "cleanliness": 96.65535093599748,
+    "taxi": [
+      "Union Cab",
+      "OttoMattic",
+      "Fussion Fast",
+      "Travel Surf",
+      "Red Coach",
+      "Brave Wheel"
+    ],
+    "food": [
+      "Lion Dairy & Drinks",
+      "Yurun Group",
+      "Huiyuan Juice",
+      "Maple Leaf Foods",
+      "Murray Goulburn Co-operative",
+      "Gay Lea",
+      "Bickford's",
+      "Sustagen",
+      "Kee Wah Bakery",
+      "Copacol",
+      "Dairy Farm International Holdings"
+    ],
+    "recommendations": [
+      "St.Petersburg Private Tour of The Hermitage Museum",
+      "Mogollon Rim Off-Road Tour"
+    ],
+    "name": "Vancouver International Airport",
+    "city": "Richmond",
+    "state": "British Columbia",
+    "country": "Canada",
+    "url": "http://www.yvr.ca/",
+    "Airlines-No": "92",
+    "traffic": 36.8
+  },
+  {
+    "cleanliness": 98.06513842659477,
+    "taxi": [
+      "Odessy",
+      "7 Days Taxi",
+      "Tour Nest",
+      "Sure Path",
+      "Circle Hub",
+      "ABC Cab Company"
+    ],
+    "food": [
+      "Norco Co-operative",
+      "Viro",
+      "COFCO Group",
+      "Convenience Retail Asia",
+      "Bega Cheese",
+      "Mrs Mac's Pies",
+      "McCain Foods",
+      "Castaño",
+      "Laura Secord Chocolates",
+      "Chapman's"
+    ],
+    "recommendations": [
+      "Kauai Deluxe Sightseeing Flight",
+      " Ocean Kayak Tours"
+    ],
+    "name": "Toronto Lester B Pearson International Airport",
+    "city": "Mississauga",
+    "state": "Ontario",
+    "country": "Canada",
+    "url": "http://www.gtaa.com/",
+    "Airlines-No": "176",
+    "traffic": 70.39999999999999
+  },
+  {
+    "cleanliness": 94.79648818006189,
+    "taxi": [
+      "ABC Cab Company",
+      "Play Coach",
+      "Radio Cab"
+    ],
+    "food": [
+      "Bega Cheese",
+      "Premium Brands Holdings Corporation",
+      "Xinjiang Chalkis Co.Ltd",
+      "Jules Destrooper",
+      "Soprole",
+      "BRF S.A.",
+      "Agrana",
+      "McCain Foods",
+      "Laura Secord Chocolates"
+    ],
+    "recommendations": [
+      "Small-Group Guided Sloth Seeing Tour in La Fortuna",
+      "Small Group Night Volcano Tour – Witness Kilauea Eruption From a Safe Distance"
+    ],
+    "name": "Zurich International Airport",
+    "city": "Kloten",
+    "state": "Canton of Zurich",
+    "country": "Switzerland",
+    "url": "http://www.zurich-airport.com",
+    "Airlines-No": "161",
+    "traffic": 64.4
+  }
+]

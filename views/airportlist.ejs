@@ -76,7 +76,8 @@
                 <tbody>
                     <% airportlist.forEach(function(airportindex){ %>
                   <tr>
-                  
+
+
                     <td><%= airportindex.id %></td>
                     <td><%= airportindex.name %></td>
                     <td><%= airportindex.city %></td>
@@ -86,10 +87,10 @@
                     <td><%= airportindex.traffic %></td>
                     <td><%= airportindex.airlines %></td>
                     <td><img height="200" width="250" src="<%= airportindex.image %>" /></td>
-                    <td><%= airportindex.recommendation %></td>
+                    <td><pre><%= airportindex.recommendation %></pre></td>
                     <td><%= airportindex.service %></td>
-                    <td><%= airportindex.taxi %></td>
-                    <td><%= airportindex.foodchains %></td>
+                    <td><pre><%= airportindex.taxi %></pre></td>
+                    <td><pre><%= airportindex.foodchains %></pre></td>
                   </tr>
                   <% }) %>
                 </tbody>
