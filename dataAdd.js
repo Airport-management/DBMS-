@@ -27,7 +27,18 @@ async function convert_text(data) {
     let str = "";
 
     for (let i = 0; i < data.length; i++){
-        str += data[i] + ', \n';
+        str += '• ' + data[i] + '\n';
+    }
+
+    console.log(str);
+    return str.slice(0, -1);
+}
+
+async function convert_text2(data) {
+    let str = "";
+
+    for (let i = 0; i < data.length; i++){
+        str += '⋆ ' + data[i] + '\n';
     }
 
     console.log(str);
@@ -49,7 +60,7 @@ async function addData(data) {
     let service = service_gen();
     let imagevar = `ap-${(i++ % 20) + 1}.jpg`;
     let food = await convert_text(data['food']);
-    let recommendations = await convert_text(data['recommendations']);
+    let recommendations = await convert_text2(data['recommendations']);
     let taxi = await convert_text(data['taxi']);
     
     
@@ -73,13 +84,13 @@ async function addData(data) {
 }
 
 async function extractData(data) {
-    // for (let i = 0; i < data.length; i++){
-    //     await addData(data[i]);
-    // }
+    for (let i = 0; i < data.length; i++){
+        await addData(data[i]);
+    }
 
-    const d = data[0];
-    let food = await convert_text(d['food']);
-    console.log(food);
+    // const d = data[0];
+    // let food = await convert_text(d['food']);
+    // console.log(food);
 
     // console.log('•', 0x2022);
 }
