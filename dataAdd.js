@@ -1,7 +1,7 @@
-var express = require('express');
-var app = express();
-var usermodel= require("./models").user;
-var airportmodel=require("./models").airtportdata;
+const express = require('express');
+const app = express();
+const usermodel= require("./models").user;
+const airportmodel=require("./models").airtportdata;
 const { Op } = require("sequelize");
 const fs = require('fs').promises;
 
