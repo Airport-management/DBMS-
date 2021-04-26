@@ -1,7 +1,21 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
+        <style>
+            .center{
+                text-align: center;
+            }
+
+            table{
+                position: absolute;
+                top: 40%;
+                left: 50%;
+                transform: translate(-50%, -40%);
+            }
+        </style>
     </head>
     <body>
     
@@ -34,15 +48,15 @@
         <td><%= airportindex.name %></td>
         <td><%= airportindex.city %></td>
         <td><%= airportindex.state %></td>
-        <td><%= airportindex.cleanliness %></td>
-        <td><%= airportindex.ranking %></td>
-        <td><%= airportindex.traffic %></td>
-        <td><%= airportindex.airlines %></td>
+        <td class="center"><%= airportindex.cleanliness %></td>
+        <td class="center"><%= airportindex.ranking %></td>
+        <td class="center"><%= airportindex.traffic %></td>
+        <td class="center"><%= airportindex.airlines %></td>
         <td><img height="200" width="250" src="<%= airportindex.image %>" /></td>
-        <td><%= airportindex.recommendation %></td>
-        <td><%= airportindex.service %></td>
-        <td><%= airportindex.taxi %></td>
-        <td><%= airportindex.foodchains %></td>
+        <td><pre><%= airportindex.recommendation %></pre></td>
+        <td class="center"><%= airportindex.service %></td>
+        <td><pre><%= airportindex.taxi %></pre></td>
+        <td><pre><%= airportindex.foodchains %></pre></td>
 
        
         

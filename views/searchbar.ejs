@@ -43,11 +43,10 @@
         
 
      <select name="city" >
-       
-         <option value="New Delhi">NEW DELHI </option>
-         <option value="New york">NEW YORK </option>
-         <option value="Mumbai">MUMBAI </option>
-         
+        <% for(let i=0; i<city.length; i++){ %>
+            <option value="<%= city[i].city %>"><%= city[i]['city'] %> </option> 
+        <% } %> 
+
      </select>
      <br>
      <input type="submit" > 

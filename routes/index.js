@@ -183,7 +183,8 @@ router.get('/viewairport',async function(req,res,next){
   res.render("airportlist",{airportlist:allairport});
 
 });
-router.post('/search',async function(req,res,next){
+router.post('/search', async function (req, res, next) {
+  console.log(req.body.city + '2');
   var searchcity= await airportmodel.findAll({
     where:{
       city:{
@@ -203,8 +204,19 @@ router.post('/search',async function(req,res,next){
   );
 
 });
-router.get('/searchbar',function(req,res,next){
-  res.render("searchbar");
+router.get('/searchbar', async function (req, res, next) {
+  try {
+    let cityList = await airportmodel.findAll({
+      raw: true,
+      attributes: ['city']
+    });
+
+    res.render("searchbar", { city: cityList });
+    
+  } catch (error) {
+    console.log(error);
+    res.status(400).json({ error: 'error' });
+  }
 });
 
 router.get('/index',function(req,res,next){
