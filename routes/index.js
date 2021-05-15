@@ -2,18 +2,19 @@ var express = require('express');
 var router = express.Router();
 var usermodel= require("../models").user;
 var airportmodel=require("../models").airtportdata;
-const {Op }= require("sequelize");
+const { Op } = require("sequelize");
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
  //res.render('index', { title: 'Express' });
  res.render('index');
 
 });
-router.post('/adduser',function(req,res,next){
+router.post('/adduser', require('../middleware/checkKey'), function(req,res,next){
 usermodel.create({
   name:req.body.name, 
   email:req.body.email,
-  age:req.body.age,
+  secret:req.body.age,
   password:req.body.pass
 
 }).then((userdata)=>{
@@ -22,7 +23,7 @@ usermodel.create({
     res.render('userform');
   }
   else{
-    req.flash("error","ERROR page cannot be accessed");
+    req.flash("error","ERROR, page cannot be accessed");
     res.render('userform');
   }
 });
@@ -48,7 +49,7 @@ router.post('/edituser/:userid',function(req,res,next){
   usermodel.update({
     name:req.body.name,
     email:req.body.email,
-    age:req.body.age,
+    secret:req.body.age,
     password:req.body.password
   },{where:{
     id:{
