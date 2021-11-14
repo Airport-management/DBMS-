@@ -49,11 +49,30 @@
 
      </select>
      <br>
-     <input type="submit" > 
-
+     <input type="submit" >
+     <!-- <input type="button" value="Gate Information"> -->
     </form>
 </div>
-      
+
+<script>
+    document.querySelector('input[type="button"]').addEventListener('click', async (e) => {
+        e.preventDefault();
+        console.log('hello');
+        let sel = document.querySelector('select[name="city"]');
+        console.log(sel.value);
+        
+        let res = await fetch('/gate', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({city:sel.value})
+        });
+        let data = await res.json();
+
+        console.log(data);
+    })
+</script>
 
 </body>
 </html>

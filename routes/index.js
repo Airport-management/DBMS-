@@ -150,32 +150,41 @@ if(!req.files){
   req.flash("error","please upload image file");
 
 }
-else{ var imagevar=req.files.image; 
-  imagevar.mv("./public/uploads/"+imagevar.name);
-     airportmodel.create({
-     name:req.body.name,
-     city:req.body.city,
-     state:req.body.state,
-     cleanliness:req.body.cleanliness,
-     ranking:req.body.ranking,
-     traffic:req.body.traffic,
-     airlines:req.body.airlines,
-     image:"/uploads/"+imagevar.name,
-     recommendation:req.body.recommendation,
-     service:req.body.service,
-     taxi:req.body.taxi,
-     foodchains:req.body.foodchains,
-  
-     }).then((status)=>{
-       if(status){
-         req.flash("success","AIRPORT DETAILS HAVE BEEN CREATED SUCCESSFULLY");
-        
-       }
-       else{
-         req.flash("error","ERROR IN UPLOADING AIRPORT DETAILS");
-       }
-       res.redirect("/airportform");
-     })}
+else{ 
+  try{
+
+    var imagevar=req.files.image; 
+    imagevar.mv("./public/uploads/"+imagevar.name);
+       airportmodel.create({
+       name:req.body.name,
+       city:req.body.city,
+       state:req.body.state,
+       cleanliness:req.body.cleanliness,
+       ranking:req.body.ranking,
+       traffic:req.body.traffic,
+       airlines:req.body.airlines,
+       image:"/uploads/"+imagevar.name,
+       recommendation:req.body.recommendation,
+       service:req.body.service,
+       taxi:req.body.taxi,
+       foodchains:req.body.foodchains,
+    
+       }).then((status)=>{
+         if(status){
+           req.flash("success","AIRPORT DETAILS HAVE BEEN CREATED SUCCESSFULLY");
+          
+         }
+         else{
+           req.flash("error","ERROR IN UPLOADING AIRPORT DETAILS");
+         }
+         res.redirect("/airportform");
+       })
+    }
+    catch(err){
+      console.log(err);
+      res.status(400).json({error : err});
+    }
+  }
 
 
 });

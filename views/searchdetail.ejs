@@ -9,12 +9,12 @@
                 text-align: center;
             }
 
-            table{
+            /* table{
                 position: absolute;
                 top: 40%;
                 left: 50%;
                 transform: translate(-50%, -40%);
-            }
+            } */
         </style>
     </head>
     <body>
@@ -25,6 +25,9 @@
     <% if(messages.error){ %>
         <%= messages.error %>
         <% } %> 
+
+<h1><%= airportlist[0].city %></h1>
+
 <table border='1'>
  <tr>
     <th>ID</th>
@@ -66,8 +69,66 @@
  </tr>
 
 <% }) %>
+<h2>Airport Info</h2>
+<table class="gates" border="1">
+</table>
 
+<script defer>
+    document.addEventListener('DOMContentLoaded', ()=>{
 
+        let number = Math.floor(Math.random()*10 + 10);
+        let flights = ['AirAsia India', 'Air India', 'Air India Express', 'Go First', 'IndiGo', 'SpiceJet', 'Vistara', 'Star Air', 'TruJet', 'SpiceXpress', 'Safefly Aviation', 'Ghodawat Aviation', 'Air Heritage', 'Alliance Air', 'FlyBig', 'Dove Airlines', 'Ventura AirConnect', 'Blue Dart Aviation', 'Global Vectra Helicorp', 'Taneja Aerospace and Aviation Ltd'];
+        let arr = [];
+        let element = document.querySelector('.gates');
+        let time = ['10', '15', '20', '30', '40', '55', '00'];
+        let departure = Math.floor(Math.random()*10 + 7);
+        console.log(number);
+
+        let h = document.createElement('h');
+        h.textContent = `The airport has ${number} Gates`;
+        element.appendChild(h);
+
+        let tr2 = document.createElement('tr');
+        let th = document.createElement('th');
+        th.textContent = 'Gates';
+        tr2.appendChild(th);
+        for(let i = 1; i <= number; i++){
+            let tr = document.createElement('th');
+            tr.textContent = `Gate ${i}`;
+            tr2.appendChild(tr);
+        }
+        element.append(tr2);
+
+        let tr1 = document.createElement('tr');
+        let th2 = document.createElement('th');
+        th2.textContent = 'Arriving Flights';
+        tr1.appendChild(th2);
+        for(let i = 1; i <= number; i++){
+            let r = Math.floor(Math.random()*flights.length);
+            let tr = document.createElement('td');
+            tr.textContent = flights[r];
+            tr1.appendChild(tr);            
+        }
+        element.append(tr1);
+        
+        let tr3 = document.createElement('tr');
+        let th3 = document.createElement('th');
+        th3.textContent = 'Departure Time';
+        tr3.appendChild(th3);
+        for(let i = 1; i <= number; i++){
+            let arrival = Math.floor(Math.random()*24);
+            let a = arrival.toString();
+            let r2 = Math.floor(Math.random()*time.length);
+            
+            let tr = document.createElement('td');
+            tr.textContent = a + ':' + time[r2];
+            tr3.appendChild(tr);
+        }
+        element.appendChild(tr3);
+
+        console.log('hello');
+    })
+</script>
 
 </table>
 </body>
